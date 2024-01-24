@@ -1,59 +1,59 @@
-780	401	360	12	19	the orange colored traffic cone	नारंगी रंग यातायात शंकु
-2376980	221	50	87	170	A stop light	एक स्टॉप लाइट
-2337791	168	154	196	76	three zebras in the wild	जंगल में तीन जेब्रा
-2339	30	217	738	326	cars parked along the side of the road	सड़क के किनारे खड़ी कारें
-2347468	324	195	90	184	a man climbing into a train	एक व्यक्ति रेलगाड़ी में चढ़ रहा है
-2320714	222	40	182	237	This is a person	यह एक व्यक्ति है
-2344421	103	376	25	13	Box of small oranges in a box.	बॉक्स में छोटे संतरे का बक्सा
-2353308	61	0	114	158	Signs about TRAMS on a post.	एक पोस्ट पर गाड़ी के बारे में संकेत।
-2383938	0	72	499	300	a white box filled with doughnuts	डोनट्स से भरा एक सफेद बॉक्स
-2349744	71	73	143	247	person wearing a black hat	एक काले टोपी पहनने वाला व्यक्ति
-2319067	169	222	14	16	the bird is black	पक्षी काला है
-2403337	153	115	101	231	a girl is standing.	एक लड़की खड़ी है .
-3438	645	48	17	21	window on a building	इमारत पर खिड़की
-2395283	11	65	319	358	a Southwest airliner seen in the distance between two tall buildings	दो लंबी इमारतों के बीच की दूरी में देखा गया एक दक्षिणपश्चिम हवाई जहाज
-2377733	11	67	405	264	the hawk on the branch	शाखा पर बाज़
-2354397	40	0	433	227	a table full of vegetables	सब्जियों से भरा एक मेज
-2380297	246	212	72	107	face of the cow	गाय का चेहरा
-2412488	157	89	38	90	Man wearing military clothes	फौजी कपड़े पहने हुए आदमी
-1592416	233	506	137	332	A glass of wine	एक गिलास वाइन
-3710	140	606	57	130	a person walking on a sidewalk	फुटपाथ पर चलने वाला व्यक्ति
-2340164	67	222	62	100	this is a frisbee	यह एक फ्रिस्क है
-2406310	459	32	34	22	Colorful kite	रंगीन पतंग
-2345224	311	283	28	52	headlights on the bus	बस की हेडलाइट्स
-2381657	92	9	289	424	a dog jumpin up	एक कुत्ता कूदता है
-2407178	10	30	433	298	the girl is reading	लड़की पढ़ रही है
-2376948	213	92	222	274	a tower surround by water	पानी से घिरा हुआ एक टावर
-2326175	165	24	195	265	a girl playing tennis	एक लड़की टेनिस खेल रही है
-2341654	144	69	116	262	the giraffe is extending his neck	जिराफ अपनी गर्दन बढ़ा रहा है
-2391645	182	108	236	185	a red bench on the sidewalk	फुटपाथ पर एक लाल बेंच
-4816	1	282	370	197	A large plate to the front	सामने की ओर एक बड़ी प्लेट
-2332011	67	27	67	162	red light house with a black roof	काली छत वाला प्रकाश घर
-2389615	405	4	90	155	a water glass on a table	एक मेज पर एक पानी का गिलास
-2340726	170	193	38	27	headlight	हेडलाइट
-2323315	252	96	32	17	red car on the street	सड़क पर लाल कार
-2400890	139	60	324	241	there are three elephants	तीन हाथी हैं
-2370557	0	10	260	194	tree has green leaves	पेड़ के हरे पत्ते हैं
-2370424	4	8	492	282	two people hiking mountain	दो व्यक्ति पहाड पर पैदल चल रहे है
-2376947	281	110	217	222	glue gun on counter	काउन्टर पर गोंद बंदूक
-2414651	166	88	47	55	Clock face on building with cross on it.	उस पर क्रॉस के साथ इमारत पर घड़ी का चेहरा
-2395043	231	38	152	207	face of a man with glasses	चश्मे के साथ एक आदमी का चेहरा
-2348240	61	151	114	105	a black horse on the snow	बर्फ पर एक काला घोड़ा
-2331617	5	0	490	76	blue sky over a city skyline	एक शहर के क्षितिज पर नीला आकाश
-2381396	56	69	295	178	This is a record player	यह एक रिकॉर्ड प्लेयर है
-2367035	15	70	422	379	People walking with skis on	स्की पर चलने वाले लोग
-2366278	133	108	82	132	the head of a horse	घोड़े का सिर
-2366717	116	98	148	258	Person playing With bowling	गेंदबाजी के साथ खेल रहे व्यक्ति
-2395797	216	116	42	52	part of a mirror	दर्पण का हिस्सा
-2368638	18	17	466	235	a public display of a kitchen	रसोईघर का सार्वजनिक प्रदर्शन
-2386887	253	3	242	62	Different colored record albums.	विभिन्न रंगों का रिकॉर्ड एल्बम
-2393714	77	178	100	91	a cake doughnut	एक केक डोनट
-2375931	80	15	362	248	three glasses of red wine	तीन गिलास लाल शराब के
-2361520	102	52	54	40	wearing helmet	हेलमेट पहनना
-2317278	25	59	162	219	dude listening to music	दोस्त संगीत सुन रहा है
-2359353	14	2	170	145	THE MAN HAS SHORT HAIR	आदमी के छोटे बाल है
-2391611	97	12	145	162	child in yellow shirt	पीले कुर्ते में बच्चा
-2322439	150	365	8	29	part of a board	बोर्ड का हिस्सा
+780	401	360	12	19	the orange colored traffic cone	నారింజ ట్రాఫిక్ కోన్
+2376980	221	50	87	170	A stop light	ఒక స్టాప్ లైట్
+2337791	168	154	196	76	three zebras in the wild	అడవిలో మూడు జీబ్రాలు
+2339	30	217	738	326	cars parked along the side of the road	రోడ్డు పక్కన పార్క్ చేసిన కార్లు
+2347468	324	195	90	184	a man climbing into a train	ఒక వ్యక్తి రైలు ఎక్కుతున్నాడు
+2320714	222	40	182	237	This is a person	ఇది ఒక వ్యక్తి
+2344421	103	376	25	13	Box of small oranges in a box.	పెట్టెలో చిన్న నారింజల పెట్టె
+2353308	61	0	114	158	Signs about TRAMS on a post.	పోస్ట్‌లో కారు గురించి సంతకం చేయండి
+2383938	0	72	499	300	a white box filled with doughnuts	డోనట్స్‌తో నిండిన తెల్లటి పెట్టె
+2349744	71	73	143	247	person wearing a black hat	నల్ల టోపీ ధరించిన వ్యక్తి
+2319067	169	222	14	16	the bird is black	పక్షి నల్లగా ఉంటుంది
+2403337	153	115	101	231	a girl is standing.	ఒక అమ్మాయి నిలబడి ఉంది
+3438	645	48	17	21	window on a building	భవనంపై కిటికీ
+2395283	11	65	319	358	a Southwest airliner seen in the distance between two tall buildings	రెండు ఎత్తైన భవనాల మధ్య దూరం లో కనిపించే నైరుతి విమానం
+2377733	11	67	405	264	the hawk on the branch	కొమ్మ మీద గద్ద
+2354397	40	0	433	227	a table full of vegetables	కూరగాయలతో నిండిన బల్ల
+2380297	246	212	72	107	face of the cow	ఆవు ముఖం
+2412488	157	89	38	90	Man wearing military clothes	సైనిక యూనిఫారంలో ఉన్న వ్యక్తి
+1592416	233	506	137	332	A glass of wine	ఒక గ్లాసు వైన్
+3710	140	606	57	130	a person walking on a sidewalk	కాలిబాట నడిచేవాడు
+2340164	67	222	62	100	this is a frisbee	ఇది ఒక ఫ్రిస్బీ
+2406310	459	32	34	22	Colorful kite	రంగురంగుల గాలిపటాలు
+2345224	311	283	28	52	headlights on the bus	బస్సు హెడ్లైట్లు
+2381657	92	9	289	424	a dog jumpin up	ఒక కుక్క దూకుతుంది
+2407178	10	30	433	298	the girl is reading	అమ్మాయి చదువుతోంది
+2376948	213	92	222	274	a tower surround by water	నీటితో చుట్టుముట్టబడిన ఒక టవర్
+2326175	165	24	195	265	a girl playing tennis	ఒక అమ్మాయి టెన్నిస్ ఆడుతున్నది
+2341654	144	69	116	262	the giraffe is extending his neck	జిరాఫీ తన మెడను సాగదీస్తోంది
+2391645	182	108	236	185	a red bench on the sidewalk	కాలిబాటపై ఎరుపు బెంచ్
+4816	1	282	370	197	A large plate to the front	ముందు పెద్ద కంచము
+2332011	67	27	67	162	red light house with a black roof	నల్లటి పైకప్పు లైట్ హౌస్
+2389615	405	4	90	155	a water glass on a table	ఒక టేబుల్ మీద ఒక గ్లాసు నీరు
+2340726	170	193	38	27	headlight	హెడ్లైట్
+2323315	252	96	32	17	red car on the street	రోడ్డు మీద ఎర్రటి కారు
+2400890	139	60	324	241	there are three elephants	మూడు ఏనుగులు ఉన్నాయి
+2370557	0	10	260	194	tree has green leaves	చెట్టు పచ్చని ఆకులను కలిగి ఉంటుంది
+2370424	4	8	492	282	two people hiking mountain	ఇద్దరు వ్యక్తులు పర్వతం మీద నడుస్తున్నారు
+2376947	281	110	217	222	glue gun on counter	కౌంటర్లో గ్లూ గన్
+2414651	166	88	47	55	Clock face on building with cross on it.	భవనంపై గడియారం ముఖం దానిపై క్రాస్ ఉంది
+2395043	231	38	152	207	face of a man with glasses	అద్దాలు ఉన్న వ్యక్తి ముఖం
+2348240	61	151	114	105	a black horse on the snow	మంచు మీద ఒక నల్ల గుర్రం
+2331617	5	0	490	76	blue sky over a city skyline	నగర స్కైలైన్‌లో నీలి ఆకాశం
+2381396	56	69	295	178	This is a record player	ఇదొక రికార్డ్ ప్లేయర్
+2367035	15	70	422	379	People walking with skis on	స్కిస్‌తో నడుస్తున్న వ్యక్తులు
+2366278	133	108	82	132	the head of a horse	గుర్రపు తల
+2366717	116	98	148	258	Person playing With bowling	బౌలింగ్‌తో ఆడుతున్న వ్యక్తి
+2395797	216	116	42	52	part of a mirror	అద్దం భాగం
+2368638	18	17	466	235	a public display of a kitchen	వంటగది యొక్క బహిరంగ ప్రదర్శన
+2386887	253	3	242	62	Different colored record albums.	వివిధ రంగుల రికార్డ్ ఆల్బమ్
+2393714	77	178	100	91	a cake doughnut	ఒక కేక్ డోనట్
+2375931	80	15	362	248	three glasses of red wine	మూడు గ్లాసుల ఎరుపు వైన్
+2361520	102	52	54	40	wearing helmet	శిరస్త్రాణము ధరించి
+2317278	25	59	162	219	dude listening to music	వాసి సంగీతం వింటున్నాడు
+2359353	14	2	170	145	THE MAN HAS SHORT HAIR	పురుషుడుకి చిన్న జుట్టు ఉంది
+2391611	97	12	145	162	child in yellow shirt	పసుపు చొక్కాలో పిల్లవాడు
+2322439	150	365	8	29	part of a board	బోర్డు యొక్క భాగం
 2395740	242	35	176	241	The person is skiing	व्यक्ति स्कीइंग कर रहा है
 2346670	134	57	120	110	A white computer monitor on a desk.	डेस्क पर एक सफेद कंप्यूटर मॉनीटर
 2367477	159	57	29	109	a mounted light on a wall	एक दीवार पर लटकी लाइट
