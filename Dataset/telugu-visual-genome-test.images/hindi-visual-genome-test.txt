@@ -218,7 +218,7 @@
 424	458	398	68	197	woman wearing jean skirt	जीन स्कर्ट पहने महिला
 2375647	181	251	94	52	Personal Hygine supplies on tray	ट्रे पर निजी हाइजीन पूर्ति
 2318810	15	9	468	360	a kitchen with blue walls	नीली दीवारों के साथ एक रसोई
-2347369	72	280	69	216	a snowboard	एक स्नोबोर्ड
+2347369	72	280	69	216	a snowboard	ఒక స్నోబోర్డ్
 2355442	202	99	219	57	White plane on the runway	मार्ग पर सफेद हवाई जहाज
 2330906	91	110	52	53	Roman numerals on a clock	रोमन एक घड़ी पर अंक
 2346949	131	19	352	353	woman eating unhealthy sandwich	अस्वस्थ सैंडविच खाने वाली महिला
