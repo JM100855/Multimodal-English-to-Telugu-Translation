@@ -584,7 +584,7 @@
 2322256	27	171	45	166	the leg of a person playing a game	एक गेम खेलते हुए व्यक्ति का पैर
 2327875	185	163	152	120	Person on a board	एक बोर्ड पर व्यक्ति
 2317524	61	396	38	100	leg of a giraffe	जिराफ का पैर
-2331466	62	9	53	38	this is the sky	यह आकाश है
+2331466	62	9	53	38	this is the sky	ఇది ఆకాశం
 2377420	26	201	162	172	a woman sits alone on a bench	एक महिला बेंच पर अकेली बैठती है
 2384305	321	202	57	15	Taillights of car on road	सड़क पर कार की रोशनी
 2347223	185	446	27	36	part of a wood	लकड़ी का हिस्सा
@@ -700,7 +700,7 @@
 2407371	290	254	14	42	Orange tassel that is hanging.	नारंगी लटकन जो लटकी हो
 713727	8	5	787	411	a scene during the day time	दिन के दौरान एक दृश्य
 2359972	120	193	36	32	rock in field	क्षेत्र में चट्टान
-2332065	43	35	70	65	this is the sky	यह आकाश है
+2332065	43	35	70	65	this is the sky	ఇది ఆకాశం
 2337875	16	19	442	170	red airplane on runway	रनवे पर लाल हवाई जहाज
 2354876	297	334	44	62	this is the wall	यह दीवार है
 2392354	288	206	124	50	The frisbee is orange	फ्रिस्बी नारंगी है
@@ -1035,7 +1035,7 @@
 2354443	149	96	33	38	A kite in the sky.	आकाश में एक पतंग
 2371464	214	73	120	97	the man is in the air	आदमी हवा में है
 2396089	3	293	115	40	SKATEBOARD IN MID AIR	मध्यम हवा में स्केटबोर्ड
-2350673	379	23	21	10	this is the sky	यह आकाश है
+2350673	379	23	21	10	this is the sky	ఇది ఆకాశం
 2402945	311	114	185	208	black racer bicycle	काले रेसर साइकिल
 2325006	22	30	447	314	this is an outdoor setting	यह एक बाहरी सेटिंग है
 2353637	163	214	19	21	Yellow duck on a necktie	एक नेकटाई पर पीला बतख
@@ -1581,7 +1581,7 @@
 497974	201	481	68	266	orange and white pylon	नारंगी और सफेद पायलन
 2383662	246	35	115	294	man sitting on motorcyle	मोटरसाइल पर बैठा आदमी
 2339987	375	159	123	75	Water on pavement.	फुटपाथ पर पानी
-2391307	61	26	107	46	this is the sky	यह आकाश है
+2391307	61	26	107	46	this is the sky	ఇది ఆకాశం
 2357752	8	438	39	28	Small grey grout line	छोटी धूसर लाइन
 2407933	50	56	420	298	Person wears a sweatshirt with hood	व्यक्ति टोपि के साथ स्वेट-शर्ट पहने हुए है
 2414442	15	5	481	326	Donuts in a bowl	एक कटोरे में डोनट्स
