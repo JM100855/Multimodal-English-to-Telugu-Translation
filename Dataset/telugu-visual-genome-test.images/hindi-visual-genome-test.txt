@@ -498,16 +498,16 @@
 2331173	252	150	158	86	a bus in a crowd	एक भीड़ में बस
 2365187	138	61	203	219	giraffes standing in a zoo	जिराफ एक चिड़ियाघर में खड़ा है
 2383263	76	20	110	34	this is the sky	यह आकाश है
-2363780	190	70	255	203	a sandwich on a white plate	एक सफेद प्लेट पर सेंडविच
-2328328	66	172	111	157	person on a motorcycle	एक मोटरसाइकिल पर व्यक्ति
-2404947	233	233	119	79	red bus on road	सड़क पर लाल बस
+2363780	190	70	255	203	a sandwich on a white plate	తెల్లటి ప్లేట్‌లో శాండ్‌విచ్
+2328328	66	172	111	157	person on a motorcycle	మోటార్ సైకిల్ పై ఉన్న వ్యక్తి
+2404947	233	233	119	79	red bus on road	రోడ్డు మీద ఎర్ర బస్సు
 2363605	31	162	302	263	glass case filled with pizzas	पिज्जा से भरा गिलास
-2364040	1	234	497	90	wooden fence railing	लकड़ी की बाड़ रेलिंग
+2364040	1	234	497	90	wooden fence railing	చెక్క కంచె రైలింగ్
 2378301	242	55	203	262	a brown bear in a nurses uniform	एक नर्स वर्दी में एक भूरा भालू
-2365541	296	153	57	41	the ball is in the air	गेंद हवा में है
-4591	286	37	75	93	A wall on the side of a building	इमारत के किनारे पर एक दीवार
-1592748	113	9	74	68	one black and white lampshade	एक काला और सफेद दीपक
-2364997	1	0	78	280	Green and brown camouflage umbrella.	हरे और भूरे कैमोफ्लेज छतरी
+2365541	296	153	57	41	the ball is in the air	బంతి గాలిలో ఉంది
+4591	286	37	75	93	A wall on the side of a building	భవనం వైపు గోడ
+1592748	113	9	74	68	one black and white lampshade	ఒక నలుపు మరియు తెలుపు దీపపు నీడ
+2364997	1	0	78	280	Green and brown camouflage umbrella.	ఆకుపచ్చ మరియు గోధుమ రంగు మభ్యపెట్టే గొడుగు.
 2352814	2	60	80	175	A woman playing soccer	फुटबॉल खेलनेवाली महिला
 2366511	37	62	405	272	tall giraffe behind fence	बाड़ के पीछे लंबा जिराफ
 2354417	223	303	37	26	writing on yellow sign.	पीले चिह्न पर लिखा गया
