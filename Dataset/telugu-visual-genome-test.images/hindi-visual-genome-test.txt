@@ -98,7 +98,7 @@
 2363302	111	156	168	331	the man has glasses on	మనిషికి అద్దాలు ఉన్నాయి
 2395812	5	0	325	189	The roof is sheet metal	పైకప్పు షీట్ మెటల్
 2407036	178	94	129	75	this is the sky	ఇది ఆకాశం
-2374262	250	266	70	75	drain of the sink	नाली का निकास
+2374262	250	266	70	75	drain of the sink	సింక్ యొక్క కాలువ
 2345771	126	41	311	64	The sign that reads \Water\	पानी का चिह्न
 2360353	24	34	313	320	this is taken inside	यह अंदर ले जाया गया है
 2337165	186	8	160	322	a child on the tennis court	टेनिस कोर्ट पर एक बच्चा
@@ -698,61 +698,61 @@
 2344205	188	143	151	117	black traffic signals	బ్లాక్ ట్రాఫిక్ సిగ్నల్స్
 2321063	0	313	215	60	Cruise boat on the water	నీటి మీద క్రూజ్ బోట్
 2407371	290	254	14	42	Orange tassel that is hanging.	వేలాడుతున్న ఆరెంజ్ టాసెల్.
-713727	8	5	787	411	a scene during the day time	दिन के दौरान एक दृश्य
-2359972	120	193	36	32	rock in field	क्षेत्र में चट्टान
+713727	8	5	787	411	a scene during the day time	పగటి సమయంలో ఒక దృశ్యం
+2359972	120	193	36	32	rock in field	రంగంలో రాక్
 2332065	43	35	70	65	this is the sky	ఇది ఆకాశం
-2337875	16	19	442	170	red airplane on runway	रनवे पर लाल हवाई जहाज
-2354876	297	334	44	62	this is the wall	यह दीवार है
-2392354	288	206	124	50	The frisbee is orange	फ्रिस्बी नारंगी है
-2391294	136	113	160	151	this is a bunch of banana	यह केले का एक गुच्छा है
-2395491	15	3	234	168	black and white rain umbrella	काले और सफेद बारिश की छतरी
-2361061	18	13	27	20	Black sign with white right arrow	सफेद दाएं तीर के साथ काला चिह्न
-2344721	441	73	57	55	The cake box is white.	केक बॉक्स सफेद है ।
-498329	429	143	188	137	a view of objects	वस्तुओं का दृश्य
-2361716	181	53	171	195	the skateboarder is performing stunt	स्केटबोर्डर स्टंट कर रहा है
-2336367	59	43	312	444	a man playing baseball	एक व्यक्ति बेसबॉल
-2411132	276	338	52	80	The pillow that is on the chair in front of the window	तकिया जो विंडो के सामने कुर्सी पर है
-2315773	175	269	67	25	green wheels on a skateboard	स्केटबोर्ड पर हरे धागे
-4300	286	144	75	93	A wall on the side of a building	इमारत के किनारे पर एक दीवार
-497973	492	220	172	159	American flag being held by boy	लड़के द्वारा रखा जा रहा अमेरिकी झंडा
-2367480	218	388	24	33	white clock face in tower	टावर में सफेद घड़ी का चेहरा
-2413622	6	11	490	354	cereal in a bowl	एक कटोरे में अनाज
-2371163	41	134	238	89	white airplane	सफेद हवाई अड्डा
-2341162	371	208	120	88	people standing on a sidewalk	किसी साइड पर खड़े लोग
-2416913	128	200	295	89	large crab rings on the ground	जमीन पर बड़े केकड़े बजते हैं
-2374252	298	156	177	197	cloud cover in sky	आकाश में बादल आवरण
-2324138	87	0	334	373	a copper laptop computer	एक तांबा लैपटॉप कंप्यूटर
-1301	3	31	60	80	painting hanging on wall	दीवार पर चित्रकला
-2353171	90	185	168	263	Women carrying luggage.	महिलाएं सामान ले जा रही है
-2329350	285	0	84	77	A street sign in the foreground	अग्रभूमि में एक सड़क का चिह्न
-2388623	209	181	96	317	a boy in red	लाल रंग में एक लड़का
-2334748	13	42	481	286	A person is in the ocean	एक व्यक्ति समुद्र में है
-2336865	358	234	33	26	Two surfboards up under a man's arm.	एक व्यक्ति के हाथ के नीचे दो सर्फोर्ड
-2364489	37	135	177	142	this is a sheep	यह एक भेड़ है
-2345676	139	105	267	157	person is wearing blue kicks	व्यक्ति नीले किक्स पहने हुए है
-2401637	209	83	220	112	black and white boat	काला और सफेद नाव
-150515	542	129	79	85	yellow frisbee in air	हवा में पीला फ्रिसबी
-2350440	388	76	56	32	A number key on a cell phone.	एक सेल फोन पर एक नंबर कुंजी
-2390879	193	219	172	90	The fruit is orange.	फल नारंगी है ।
-2331808	202	262	99	131	Baseball player throwing a pitch	बेसबॉल खिलाड़ी एक पिच फेंक रहा है
-2338515	36	41	377	280	the picture is taken on a day time	चित्र एक दिन में लिया गया है
-2335051	167	6	171	172	black double door fridge	ब्लैक डबल डोर फ्रिज
-2335350	105	138	5	11	white letter stenciled on wall	दीवार पर सफेद अक्षर
-2373438	178	286	40	12	license plate on bus.	बस में लाइसेंस प्लेट
-2416420	396	293	13	16	the eye of a person	किसी व्यक्ति की नेत्र
-2405378	19	10	23	54	this is a wall	यह एक दीवार है
-2862	402	307	42	62	Red and white sign on a building	एक इमारत पर लाल और सफेद संकेत
-2397692	218	176	100	109	large furry black bear	बड़े प्यारे काले भालू
-2383646	45	266	45	79	refrigerator doors	रिफ्रिगरेटर द्वार
-2353922	108	65	84	171	a skier on a snow field	एक बर्फ के मैदान पर एक खिलाड़ी
-2360872	217	116	42	40	Lamp shade on lamp	दीपक पर दीपक छाया
-2330968	155	189	115	294	this is a person	यह एक व्यक्ति है
-2386092	22	112	475	140	airplane	हवाई जहाज
-2375643	356	248	112	250	double yellow line down middle of road	सड़क के बीच में डबल पीली लाइन
-1159968	16	439	1002	239	three benches on the pier	पायर पर तीन बेंच
-2381449	110	161	240	308	man walking on beach	आदमी समुद्र तट पर चल रहा है
-2371726	101	95	331	181	a bird on an umbrella	एक अंबरेला पर एक चिड़िया
-2354512	196	107	62	150	Lamp on night stand	रात्रि पर लैम्प
+2337875	16	19	442	170	red airplane on runway రన్‌వేపై ఎర్రటి విమానం
+2354876	297	334	44	62	this is the wall	ఇది గోడ
+2392354	288	206	124	50	The frisbee is orange	ఫ్రిస్బీ నారింజ రంగులో ఉంటుంది
+2391294	136	113	160	151	this is a bunch of banana	ఇది అరటి పండు
+2395491	15	3	234	168	black and white rain umbrella	నలుపు మరియు తెలుపు వర్షం గొడుగు
+2361061	18	13	27	20	Black sign with white right arrow	తెలుపు కుడి బాణంతో నలుపు గుర్తు
+2344721	441	73	57	55	The cake box is white.	కేక్ బాక్స్ తెల్లగా ఉంది.
+498329	429	143	188	137	a view of objects	వస్తువుల దృశ్యం
+2361716	181	53	171	195	the skateboarder is performing stunt	స్కేట్‌బోర్డర్ స్టంట్ చేస్తున్నాడు
+2336367	59	43	312	444	a man playing baseball	బేస్ బాల్ ఆడుతున్న వ్యక్తి
+2411132	276	338	52	80	The pillow that is on the chair in front of the window	కిటికీ ముందు కుర్చీలో ఉన్న దిండు
+2315773	175	269	67	25	green wheels on a skateboard	స్కేట్‌బోర్డ్‌పై ఆకుపచ్చ చక్రాలు
+4300	286	144	75	93	A wall on the side of a building	భవనం వైపు గోడ
+497973	492	220	172	159	American flag being held by boy	అమెరికన్ జెండాను బాలుడు పట్టుకున్నాడు
+2367480	218	388	24	33	white clock face in tower	టవర్‌లో తెల్లటి గడియారం ముఖం
+2413622	6	11	490	354	cereal in a bowl	ఒక గిన్నెలో తృణధాన్యాలు
+2371163	41	134	238	89	white airplane	తెల్లటి విమానం
+2341162	371	208	120	88	people standing on a sidewalk	ప్రజలు ఒక కాలిబాటపై నిలబడి ఉన్నారు
+2416913	128	200	295	89	large crab rings on the ground	నేలపై పెద్ద పీత వలయాలు
+2374252	298	156	177	197	cloud cover in sky	ఆకాశంలో మేఘం
+2324138	87	0	334	373	a copper laptop computer	ఒక రాగి ల్యాప్‌టాప్ కంప్యూటర్
+1301	3	31	60	80	painting hanging on wall	గోడపై వేలాడుతున్న పెయింటింగ్
+2353171	90	185	168	263	Women carrying luggage.	సామాను మోసే మహిళలు.
+2329350	285	0	84	77	A street sign in the foreground	ముందుభాగంలో వీధి గుర్తు
+2388623	209	181	96	317	a boy in red	ఎరుపు రంగులో ఉన్న అబ్బాయి
+2334748	13	42	481	286	A person is in the ocean	ఒక వ్యక్తి సముద్రంలో ఉన్నాడు
+2336865	358	234	33	26	Two surfboards up under a man's arm.	ఒక వ్యక్తి చేయి కింద రెండు సర్ఫ్ బోర్డులు.
+2364489	37	135	177	142	this is a sheep	ఇది ఒక గొర్రె
+2345676	139	105	267	157	person is wearing blue kicks	వ్యక్తి బ్లూ కిక్స్ ధరించి ఉన్నాడు
+2401637	209	83	220	112	black and white boat	నలుపు మరియు తెలుపు పడవ
+150515	542	129	79	85	yellow frisbee in air	గాలిలో పసుపు ఫ్రిస్బీ
+2350440	388	76	56	32	A number key on a cell phone.	గాలిలో పసుపు ఫ్రిస్బీ.
+2390879	193	219	172	90	The fruit is orange.	పండు నారింజ రంగులో ఉంటుంది.
+2331808	202	262	99	131	Baseball player throwing a pitch	బేస్ బాల్ ఆటగాడు పిచ్ విసిరాడు
+2338515	36	41	377	280	the picture is taken on a day time	చిత్రం ఒక రోజు సమయంలో తీయబడింది
+2335051	167	6	171	172	black double door fridge	నలుపు డబుల్ డోర్ ఫ్రిజ్
+2335350	105	138	5	11	white letter stenciled on wall	గోడపై స్టెన్సిల్ చేసిన తెల్లని అక్షరం
+2373438	178	286	40	12	license plate on bus.	బస్సులో లైసెన్స్ ప్లేట్.
+2416420	396	293	13	16	the eye of a person	ఒక వ్యక్తి యొక్క కన్ను
+2405378	19	10	23	54	this is a wall	ఇది ఒక గోడ
+2862	402	307	42	62	Red and white sign on a building	భవనంపై ఎరుపు మరియు తెలుపు గుర్తు
+2397692	218	176	100	109	large furry black bear	పెద్ద బొచ్చుగల నల్లటి ఎలుగుబంటి
+2383646	45	266	45	79	refrigerator doors	రిఫ్రిజిరేటర్ తలుపులు
+2353922	108	65	84	171	a skier on a snow field	మంచు మైదానంలో ఒక స్కీయర్
+2360872	217	116	42	40	Lamp shade on lamp	దీపం మీద దీపం నీడ
+2330968	155	189	115	294	this is a person	ఇది ఒక వ్యక్తి
+2386092	22	112	475	140	airplane	విమానం
+2375643	356	248	112	250	double yellow line down middle of road	రోడ్డు మధ్యలో రెండు పసుపు గీత
+1159968	16	439	1002	239	three benches on the pier	పీర్ మీద మూడు బెంచీలు
+2381449	110	161	240	308	man walking on beach	బీచ్‌లో నడుస్తున్న వ్యక్తి
+2371726	101	95	331	181	a bird on an umbrella	గొడుగు మీద పక్షి
+2354512	196	107	62	150	Lamp on night stand	నైట్ స్టాండ్‌లో దీపం
 1592032	346	222	57	95	Jar of jam with red and white top.	लाल और सफेद शीर्ष के साथ जाम जार ऑफ ..
 2346833	0	164	60	137	green glass on the table	मेज पर हरा कांच
 2335784	131	458	337	27	Man wearing shoes	जूते पहने हुए आदमी
