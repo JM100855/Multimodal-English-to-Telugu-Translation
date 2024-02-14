@@ -753,51 +753,51 @@
 2381449	110	161	240	308	man walking on beach	आदमी समुद्र तट पर चल रहा है
 2371726	101	95	331	181	a bird on an umbrella	एक अंबरेला पर एक चिड़िया
 2354512	196	107	62	150	Lamp on night stand	रात्रि पर लैम्प
-1592032	346	222	57	95	Jar of jam with red and white top.	लाल और सफेद शीर्ष के साथ जाम जार ऑफ ..
-2346833	0	164	60	137	green glass on the table	मेज पर हरा कांच
-2335784	131	458	337	27	Man wearing shoes	जूते पहने हुए आदमी
-2391988	1	249	165	188	soya sauce in a bowl	सोया सॉस एक कटोरे में
-2332633	131	90	34	19	man is wearing a pair of glasses	आदमी चश्मे के जोड़े पहन रहा है
-4776	226	83	35	36	flower on a plate	एक प्लेट पर फूल
-2406451	57	126	121	95	Two men sitting together.	दो आदमी एक साथ बैठे हैं।
-2388301	231	95	102	130	Elderly man on park bench	पार्क की बेंच पर बुजुर्ग आदमी
-2367928	62	274	172	212	A toilet bowl with seat	सीट के साथ एक टूलेट
-457	484	32	115	116	a clock	एक घड़ी
-2318589	22	23	429	287	these are twin beds	ये दो बिस्तर हैं
-2362150	88	89	67	50	this is the wall	यह दीवार है
-2389498	85	116	82	126	The man has sunglasses on	मनुष्य के पास चश्मा है
-2348099	55	68	17	58	vase on a shelf	एक शेल्फ पर फूलदान
-2319892	6	30	66	256	human standing near train with smile on her face	उसके चेहरे पर मुस्कान के साथ ट्रेन के पास खड़ा मानव
-1235	95	0	657	518	wooden log cabin	लकड़ी के लॉग केबिन
-2338166	45	82	107	385	this is a person	यह एक व्यक्ति है
-2352645	90	78	172	141	two skiers on top of a slope	एक ढलान के शीर्ष पर दो स्कायर
-2563	2	108	555	60	the hills in horizon	क्षितिज में पहाड़ियों
-2413299	408	44	84	219	Door to carriage 11	कैरियर के लिए 11
-2389630	200	173	41	83	a small pink rose	एक छोटी गुलाब
-2387993	366	125	133	164	A man laying under a blanket	कंबल के नीचे एक आदमी लेटा हुआ
-2374853	104	198	144	164	Love birds on top of the cake	केक के शीर्ष पर प्रेम पक्षी
-285878	287	355	101	105	urn with nothing in it	इसमें कुछ भी नहीं के साथ कलश
-2416335	18	8	436	346	people are playing frisbee	लोग फ्रिसबी खेल रहे हैं
-2344645	204	290	157	106	grey and white bird soaring	ग्रे और सफेद पक्षी बढ़ते हैं
-2400407	262	111	222	81	A delicious pepperoni pizza	एक स्वादिष्ट पेपरोनी पिज़्ज़ा
-2393211	251	2	248	197	this is a tree	यह एक पेड़ है
-2405714	30	47	185	265	tennis player jumping up	टेनिस खिलाड़ी कूदते हुए
-3856	1	249	149	173	black car parked on street	सड़क पर काली कार पार्क
-2316348	56	14	379	356	skiers jumping in air while standing on skis	स्किस पर खड़े होने के दौरान हवा में कूदते हैं
-2354890	38	105	25	23	the trunk of a elephant	एक हाथी की सूंड
-2352165	217	12	250	317	a person riding on the horse	घोड़े पर सवारी करने वाला व्यक्ति
-2350223	243	96	120	107	yellow and black train	पीला और काला ट्रेन
-2401261	98	314	7	5	bird flying over ocean	पक्षी समुद्र पर उड़ रहा है
-2340294	313	53	23	38	kite	पतंग
-2415102	169	3	71	23	brown dirt in the distance	दूरी में भूरे रंग की गंदगी
-2362046	11	75	134	96	this is a tin	यह एक टिन है
-2401776	143	110	205	167	a clock with roman numerals	रोमन अंकों के साथ एक घड़ी
-2353226	24	35	472	385	white airplane on landing strip	लैंडिंग पट्टी पर सफेद हवाई जहाज
-2412562	256	32	73	62	a statue of a unicorn on top of a bus	एक बस के ऊपर एक गेंदे की मूर्ति
-2331725	72	24	315	337	an opened up sandwich	एक खुला सेंविच
-1867	439	214	61	80	a \Stop\ sign on a pole	एक पोल पर एक \ Stop\साइन
-2372291	72	0	302	320	people carrying suitcases	सूटकेस ले जाने वाले लोग
-2405790	102	26	256	386	stone tower with clock	घड़ी के साथ पत्थर टावर
+1592032	346	222	57	95	Jar of jam with red and white top.	ఎరుపు మరియు తెలుపు టాప్ తో జామ్ యొక్క కూజా.
+2346833	0	164	60	137	green glass on the table	టేబుల్ మీద ఆకుపచ్చ గాజు
+2335784	131	458	337	27	Man wearing shoes	బూట్లు ధరించిన వ్యక్తి
+2391988	1	249	165	188	soya sauce in a bowl	ఒక గిన్నెలో సోయా సాస్
+2332633	131	90	34	19	man is wearing a pair of glasses	మనిషి ఒక జత గాజులు ధరించి ఉన్నాడు
+4776	226	83	35	36	flower on a plate	ఒక ప్లేట్ మీద పువ్వు
+2406451	57	126	121	95	Two men sitting together.	ఇద్దరు పురుషులు కలిసి కూర్చున్నారు.
+2388301	231	95	102	130	Elderly man on park bench	పార్క్ బెంచ్ మీద వృద్ధుడు
+2367928	62	274	172	212	A toilet bowl with seat	సీటుతో టాయిలెట్ బౌల్
+457	484	32	115	116	a clock	ఒక గడియారం
+2318589	22	23	429	287	these are twin beds	ఇవి జంట పడకలు
+2362150	88	89	67	50	this is the wall	ఇది గోడ
+2389498	85	116	82	126	The man has sunglasses on	మనిషికి సన్ గ్లాసెస్ ఉంది
+2348099	55	68	17	58	vase on a shelf	ఒక షెల్ఫ్ మీద వాసే
+2319892	6	30	66	256	human standing near train with smile on her face	ఆమె ముఖం మీద చిరునవ్వుతో రైలు దగ్గర నిలబడి ఉన్న మనిషి
+1235	95	0	657	518	wooden log cabin	చెక్క లాగ్ క్యాబిన్
+2338166	45	82	107	385	this is a person	ఇది ఒక వ్యక్తి
+2352645	90	78	172	141	two skiers on top of a slope ఒక వాలు పైన ఇద్దరు స్కీయర్లు
+2563	2	108	555	60	the hills in horizon	హోరిజోన్‌లో కొండలు
+2413299	408	44	84	219	Door to carriage 11	క్యారేజ్ నంబర్ పదకొండో తలుపు
+2389630	200	173	41	83	a small pink rose	ఒక చిన్న గులాబీ గులాబీ
+2387993	366	125	133	164	A man laying under a blanket	ఒక వ్యక్తి దుప్పటి కింద పడుకున్నాడు
+2374853	104	198	144	164	Love birds on top of the cake	కేక్ పైన ప్రేమ పక్షులు
+285878	287	355	101	105	urn with nothing in it	దానిలో ఏమీ లేకుండా కలశం
+2416335	18	8	436	346	people are playing frisbee	ప్రజలు ఫ్రిస్బీ ఆడుతున్నారు
+2344645	204	290	157	106	grey and white bird soaring	బూడిద మరియు తెలుపు పక్షి ఎగురుతుంది
+2400407	262	111	222	81	A delicious pepperoni pizza	రుచికరమైన పెప్పరోని పిజ్జా
+2393211	251	2	248	197	this is a tree	ఇది ఒక చెట్టు
+2405714	30	47	185	265	tennis player jumping up	టెన్నిస్ ఆటగాడు పైకి దూకుతున్నాడు
+3856	1	249	149	173	black car parked on street	వీధిలో నల్లటి కారు ఆపి ఉంది
+2316348	56	14	379	356	skiers jumping in air while standing on skis	స్కీయర్‌లు స్కిస్‌పై నిలబడి గాలిలోకి ఎగరడం
+2354890	38	105	25	23	the trunk of a elephant	ఏనుగు యొక్క ట్రంక్
+2352165	217	12	250	317	a person riding on the horse	గుర్రంపై స్వారీ చేస్తున్న వ్యక్తి
+2350223	243	96	120	107	yellow and black train	పసుపు మరియు నలుపు రైలు
+2401261	98	314	7	5	bird flying over ocean	సముద్రం మీదుగా ఎగురుతున్న పక్షి
+2340294	313	53	23	38	kite	గాలిపటం
+2415102	169	3	71	23	brown dirt in the distance	దూరంలో గోధుమ రంగు మురికి
+2362046	11	75	134	96	this is a tin	ఇది ఒక టిన్
+2401776	143	110	205	167	a clock with roman numerals	రోమన్ సంఖ్యలతో గడియారం
+2353226	24	35	472	385	white airplane on landing strip	ల్యాండింగ్ స్ట్రిప్‌లో తెల్లటి విమానం
+2412562	256	32	73	62	a statue of a unicorn on top of a bus	బస్సు పైన యునికార్న్ విగ్రహం
+2331725	72	24	315	337	an opened up sandwich	తెరవబడిన శాండ్‌విచ్
+1867	439	214	61	80	a \Stop\ sign on a pole	ఒక పోల్‌పై స్టాప్ గుర్తు
+2372291	72	0	302	320	people carrying suitcases	సూట్‌కేసులు మోస్తున్న వ్యక్తులు
+2405790	102	26	256	386	stone tower with clock	గడియారంతో రాతి టవర్
 2363439	155	78	68	59	a clock in the side of a building	किसी भवन के बाजू में एक घड़ी
 2362013	54	250	185	106	the bike is parked	बाइक पार्क किया गया है
 1592126	380	192	416	268	a truck partially on the sidewalk	एक ट्रक आंशिक रूप से फुटपाथ पर
