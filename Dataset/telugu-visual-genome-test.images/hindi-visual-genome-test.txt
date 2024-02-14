@@ -54,18 +54,18 @@
 2359353	14	2	170	145	THE MAN HAS SHORT HAIR	పురుషుడుకి చిన్న జుట్టు ఉంది
 2391611	97	12	145	162	child in yellow shirt	పసుపు చొక్కాలో పిల్లవాడు
 2322439	150	365	8	29	part of a board	బోర్డు యొక్క భాగం
-2395740	242	35	176	241	The person is skiing	व्यक्ति स्कीइंग कर रहा है
-2346670	134	57	120	110	A white computer monitor on a desk.	डेस्क पर एक सफेद कंप्यूटर मॉनीटर
-2367477	159	57	29	109	a mounted light on a wall	एक दीवार पर लटकी लाइट
-2409736	208	93	180	133	purple image on cellphone	सेलफोन पर बैंगनी तस्बीर
-2339534	250	68	127	151	a kid riding a large wave	एक बच्चा एक बड़ी लहर की सवारी करता है
-2358179	193	57	81	233	Man skiing in the snow	बर्फ में आदमी स्कीइंग
-2356519	243	11	123	152	orange next to plate	प्लेट के बगल में संतरा
-2356461	170	189	45	110	A person standing out of the window	एक व्यक्ति खिड़की से बाहर खड़ा
-713111	150	56	870	583	men playing a game on the beach	समुद्र तट पर एक खेल खेल रहे पुरुष
-2394204	274	35	87	222	A man wearing green	हरा पहने हुए एक आदमी
-2334404	345	186	87	31	car on the street	सड़क पर कार
-2399617	277	63	151	177	man surfing in ocean	आदमी समुद्र में सर्फिंग
+2395740	242	35	176	241	The person is skiing	వ్యక్తి స్కీయింగ్ చేస్తున్నాడు
+2346670	134	57	120	110	A white computer monitor on a desk	डेడెస్క్‌పై తెల్లటి కంప్యూటర్ మానిటర్
+2367477	159	57	29	109	a mounted light on a wall	ఒక గోడపై అమర్చిన కాంతి
+2409736	208	93	180	133	purple image on cellphone	సెల్‌ఫోన్‌లో ఊదారంగు చిత్రం
+2339534	250	68	127	151	a kid riding a large wave	ఒక పిల్లవాడు పెద్ద అల మీద స్వారీ చేస్తున్నాడు
+2358179	193	57	81	233	Man skiing in the snow	మంచులో స్కీయింగ్ చేస్తున్న వ్యక్తి
+2356519	243	11	123	152	orange next to plate	కంచము పక్కన నారింజ
+2356461	170	189	45	110	A person standing out of the window	కిటికీలో నుండి నిలబడి ఉన్న వ్యక్తి
+713111	150	56	870	583	men playing a game on the beach	పురుషులు బీచ్‌లో ఆట ఆడుతున్నారు
+2394204	274	35	87	222	A man wearing green	ఆకుపచ్చ రంగులో ఉన్న వ్యక్తి
+2334404	345	186	87	31	car on the street	వీధిలో కారు
+2399617	277	63	151	177	man surfing in ocean	సముద్రంలో సర్ఫింగ్ చేస్తున్న వ్యక్తి
 107943	24	102	23	20	window on the building	इमारत पर खिड़की
 2360892	72	32	307	261	gray airplane	धूसर विमान
 2383438	94	282	147	36	a smooth grey ground.	एक चिकना धुसर मैदान
