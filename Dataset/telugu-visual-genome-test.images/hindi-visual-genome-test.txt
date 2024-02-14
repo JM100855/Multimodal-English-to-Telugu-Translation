@@ -66,38 +66,38 @@
 2394204	274	35	87	222	A man wearing green	ఆకుపచ్చ రంగులో ఉన్న వ్యక్తి
 2334404	345	186	87	31	car on the street	వీధిలో కారు
 2399617	277	63	151	177	man surfing in ocean	సముద్రంలో సర్ఫింగ్ చేస్తున్న వ్యక్తి
-107943	24	102	23	20	window on the building	इमारत पर खिड़की
-2360892	72	32	307	261	gray airplane	धूसर विमान
-2383438	94	282	147	36	a smooth grey ground.	एक चिकना धुसर मैदान
-2360761	155	21	321	173	The fork is plastic..	कांटा प्लास्टिक का है
-2377889	30	82	430	223	Elephant getting leaves from a tree	हाथी एक पेड़ से पत्तियाँ प्राप्त कर रहा है
-2393281	184	76	133	202	baseball player holding a bat	बेसबॉल खिलाड़ी एक बल्ले को पकड़ते हुए
-2401746	378	60	116	159	A soft drink with ice.	बर्फ के साथ एक शीतल पेय
-2349123	251	146	71	78	person doing tricks	चालबाजी करने वाला व्यक्ति
-2364150	121	95	205	250	ski board rider with red pants and black boots	लाल पैंट और काले जूते के साथ स्की बोर्ड सवार
-2357391	79	126	340	87	three birds on the edge of a bird bath	एक पक्षी स्नान के किनारे तीन पक्षी
-2373650	106	50	208	157	A man on a surfboard	सर्फ़बोर्ड पर एक व्यक्ति
-2335768	449	117	48	70	The luxury of a long sleeved white shirt.	एक लंबी बाजू सफेद शर्ट का आराम
-2386430	39	70	121	60	Fake penguins on a bus	एक बस में नकली पेंगुइन
-2390312	327	75	51	56	black bird on a tree branch	एक पेड़ शाखा पर काला पक्षी
-2389332	7	19	482	345	a hotel room	होटल कक्ष
-2351483	332	98	75	39	He has a hat on.	उसकी टोपी है।
-2354250	238	253	13	8	the watch on the man's wrist	आदमी की कलाई पर घड़ी
-2385591	134	172	203	145	White color ceramic washbasin	सफेद रंग सिरेमिक वॉशबेसिन
-3644	60	106	578	200	the plane on the airfield	हवाई क्षेत्र पर विमान
-2341400	321	168	62	41	A white sign on a pole	एक पोल पर सफेद निशान
-2397097	246	77	18	16	number 760 on front of bus	संख्या 760 बस के सामने
-2333331	42	0	446	165	these are trees	ये वृक्ष हैं
-2409063	120	169	253	141	two zebras smelling each other	दो ज़ेबरा एक दूसरे को सूंघ रहे हैं 4
-2334782	66	98	344	302	Small brown and white giraffe	छोटे भूरे और सफेद गिराफ़
-2388476	193	452	28	15	the grass	घास
-2349831	86	168	323	163	a group of people standing	खड़े लोगों का एक समूह
-2324604	14	167	485	177	horses on a pasture	एक चरागाह पर घोड़े
-1159589	243	196	684	541	Bike chained to a metal beam	बाइक एक धातु बीम से जंजीर
-2365247	1	52	300	427	a woman sitting on a metal blue bench	एक औरत एक धातु नीले बेंच पर बैठे
-2363302	111	156	168	331	the man has glasses on	आदमी के पास चश्मा है
-2395812	5	0	325	189	The roof is sheet metal	छत शीट धातु है
-2407036	178	94	129	75	this is the sky	यह आकाश है
+107943	24	102	23	20	window on the building	భవనంపై కిటికీ
+2360892	72	32	307	261	gray airplane	బూడిద రంగు విమానం
+2383438	94	282	147	36	a smooth grey ground.	ఒక మృదువైన బూడిద రంగు నేల
+2360761	155	21	321	173	The fork is plastic..	ఫోర్క్ ప్లాస్టిక్
+2377889	30	82	430	223	Elephant getting leaves from a tree	ఏనుగు చెట్టు నుండి ఆకులు పొందడం
+2393281	184	76	133	202	baseball player holding a bat	బేస్ బాల్ ఆటగాడు బ్యాట్ పట్టుకొని ఉన్నాడు
+2401746	378	60	116	159	A soft drink with ice	మంచుతో కూడిన శీతల పానీయం
+2349123	251	146	71	78	person doing tricks	మాయలు చేస్తున్న వ్యక్తి
+2364150	121	95	205	250	ski board rider with red pants and black boots	ఎరుపు ప్యాంటు మరియు నలుపు బూట్లతో స్కీ బోర్డ్ రైడర్
+2357391	79	126	340	87	three birds on the edge of a bird bath	పక్షి స్నానం అంచున మూడు పక్షులు
+2373650	106	50	208	157	A man on a surfboard	సర్ఫ్‌బోర్డ్‌పై ఉన్న వ్యక్తి
+2335768	449	117	48	70	The luxury of a long sleeved white shirt.	పొడవాటి చేతుల తెల్లటి చొక్కా విలాసవంతమైనది
+2386430	39	70	121	60	Fake penguins on a bus	బస్సులో నకిలీ పెంగ్విన్‌లు
+2390312	327	75	51	56	black bird on a tree branch	చెట్టు కొమ్మ మీద నల్ల పక్షి
+2389332	7	19	482	345	a hotel room	ఒక హోటల్ గది
+2351483	332	98	75	39	He has a hat on.	అతనికి టోపీ ఉంది
+2354250	238	253	13	8	the watch on the man's wrist	మనిషి మణికట్టు మీద గడియారం
+2385591	134	172	203	145	White color ceramic washbasin	వైట్ కలర్ సిరామిక్ వాష్ బేసిన్
+3644	60	106	578	200	the plane on the airfield	ఎయిర్‌ఫీల్డ్‌లో ఉన్న విమానం
+2341400	321	168	62	41	A white sign on a pole	స్తంభంపై తెల్లటి గుర్తు
+2397097	246	77	18	16	number 760 on front of bus	బస్సు ముందు నంబర్ 760
+2333331	42	0	446	165	these are trees ఇవి చెట్లు
+2409063	120	169	253	141	two zebras smelling each other	రెండు జీబ్రాలు ఒకదానికొకటి వాసన చూస్తున్నాయి 
+2334782	66	98	344	302	Small brown and white giraffe	చిన్న గోధుమ మరియు తెలుపు జిరాఫీ
+2388476	193	452	28	15	the grass	గడ్డి
+2349831	86	168	323	163	a group of people standing	నిలబడి ఉన్న వ్యక్తుల సమూహం
+2324604	14	167	485	177	horses on a pasture	పచ్చిక బయళ్లలో గుర్రాలు
+1159589	243	196	684	541	Bike chained to a metal beam	బైక్‌ను మెటల్ బీమ్‌కు బంధించారు
+2365247	1	52	300	427	a woman sitting on a metal blue bench	ఒక లోహపు నీలిరంగు బెంచ్ మీద కూర్చున్న స్త్రీ
+2363302	111	156	168	331	the man has glasses on	మనిషికి అద్దాలు ఉన్నాయి
+2395812	5	0	325	189	The roof is sheet metal	పైకప్పు షీట్ మెటల్
+2407036	178	94	129	75	this is the sky	ఇది ఆకాశం
 2374262	250	266	70	75	drain of the sink	नाली का निकास
 2345771	126	41	311	64	The sign that reads \Water\	पानी का चिह्न
 2360353	24	34	313	320	this is taken inside	यह अंदर ले जाया गया है
