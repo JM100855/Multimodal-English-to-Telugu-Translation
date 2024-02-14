@@ -497,106 +497,106 @@
 2410199	183	251	146	109	the sink is white	सिंक सफेद है
 2331173	252	150	158	86	a bus in a crowd	एक भीड़ में बस
 2365187	138	61	203	219	giraffes standing in a zoo	जिराफ एक चिड़ियाघर में खड़ा है
-2383263	76	20	110	34	this is the sky	यह आकाश है
+2383263	76	20	110	34	this is the sky	ఇది ఆకాశం
 2363780	190	70	255	203	a sandwich on a white plate	తెల్లటి ప్లేట్‌లో శాండ్‌విచ్
 2328328	66	172	111	157	person on a motorcycle	మోటార్ సైకిల్ పై ఉన్న వ్యక్తి
 2404947	233	233	119	79	red bus on road	రోడ్డు మీద ఎర్ర బస్సు
-2363605	31	162	302	263	glass case filled with pizzas	पिज्जा से भरा गिलास
+2363605	31	162	302	263	glass case filled with pizzas	పిజ్జాలతో నిండిన గాజు కేస్
 2364040	1	234	497	90	wooden fence railing	చెక్క కంచె రైలింగ్
-2378301	242	55	203	262	a brown bear in a nurses uniform	एक नर्स वर्दी में एक भूरा भालू
+2378301	242	55	203	262	a brown bear in a nurses uniform	నర్సుల యూనిఫాంలో గోధుమ రంగు ఎలుగుబంటి
 2365541	296	153	57	41	the ball is in the air	బంతి గాలిలో ఉంది
 4591	286	37	75	93	A wall on the side of a building	భవనం వైపు గోడ
 1592748	113	9	74	68	one black and white lampshade	ఒక నలుపు మరియు తెలుపు దీపపు నీడ
 2364997	1	0	78	280	Green and brown camouflage umbrella.	ఆకుపచ్చ మరియు గోధుమ రంగు మభ్యపెట్టే గొడుగు.
-2352814	2	60	80	175	A woman playing soccer	फुटबॉल खेलनेवाली महिला
-2366511	37	62	405	272	tall giraffe behind fence	बाड़ के पीछे लंबा जिराफ
-2354417	223	303	37	26	writing on yellow sign.	पीले चिह्न पर लिखा गया
-2328640	285	95	52	146	loosely braided long dark hair	शिथिल लट लंबे काले बाल
-1159734	449	483	45	56	a person wearing a grey shirt	एक व्यक्ति धूसर कुर्ता
-2392730	97	52	282	272	the pizza is big	पिज़्ज़ा बड़ा है
-2402077	13	7	485	362	A cheeky toilet	एक गंदे शौचालय
-2325236	143	156	209	139	silver grey flip phone	चांदी ग्रे फ्लिप फोन
-2337547	88	248	209	204	Apple with stem in center	केंद्र में स्टेम के साथ एप्पल
-2321770	295	217	152	99	a white surf board with writing on it	एक श्वेत सर्फ बोर्ड जिसमें लिखा गया है
-2391019	160	310	71	42	passenger reading the paper.	यात्री कागज पढ़ना
-2349687	398	84	47	60	pink and red flower on wing tip	गुलाबी और लाल फूल
-2407711	85	37	150	101	A clock on a structure	एक संरचना पर एक घड़ी।
-2353445	6	25	486	300	The zebras are standing in tall grass	ज़ेब्रास घास में खड़े होते हैं ।
-2333862	0	6	497	325	Photo is in black and white	फोटो काले और सफेद में है
-2339759	62	37	155	225	a woman serving a tennis ball	एक औरत जो टेनिस गेंद सर्विस कर रही है
-2360362	195	98	77	232	Skate board	स्केट बोर्ड
-2356431	231	371	40	45	sleeping dog by tree	पेड़ से सोता कुत्ता
-2331093	171	266	93	68	Shoes on the floor.	फर्श पर जूते
-2411133	138	275	197	80	A white upside down boat	एक सफेद उलटी नाव
-2358293	103	52	125	161	Young man skateboarding	युवा स्केटेबोर्डिंग
-2396668	47	51	319	283	an orange and white boat	एक नारंगी और सफेद नाव
-2398809	273	96	30	48	A TRAFFIC LIGHT ON GREEN	हरे रंग पर ट्रैफ़िक लाइट
-2357489	331	253	87	85	the short is brown	छोटा भूरा है
-2371303	186	140	87	168	the man is surfing	आदमी सर्फिंग कर रहा है
-2363766	197	408	123	90	A cake studded with blueberries	ब्लूबरी के साथ एक केक
-2356718	148	356	47	53	pinks marks on the surface	सतह पर पिंक के निशान
-2413779	219	456	9	10	a screw on the surfboard	सर्फ़बोर्ड पर एक पेंच
-2381048	141	142	41	44	woman wearing white hat	सफेद टोपी पहने महिला
-2389116	198	30	220	162	White stuffed bears on display.	प्रदर्शन पर सफेद भरवां भालू।
-2322849	55	50	221	282	grey suitcase on ground	जमीन पर ग्रे सूटकेस
-2356879	86	0	254	332	a tennis player seated	एक टेनिस खिलाड़ी बैठा
-2363225	128	171	186	328	the shirt is stripes	कुर्ता पट्टियाँ हैं
-2391983	6	5	385	394	Ball protection net for the fans	प्रशंसकों के लिए गेंद संरक्षण नेट
-842	327	313	94	162	the trash can is black	कचरा काला हो सकता है
-2332275	98	461	58	13	Bunch of fruits on a stand.	एक स्टैंड पर फलों का गुच्छा
-2372110	43	129	446	140	the people on the road on motorcycles	मोटरसाइकिल पर सड़क पर लोग
-2397715	80	44	261	372	a female tennis player	एक महिला टेनिस खिलाड़ी
-2382944	135	223	52	53	The black ear muff on the man's ear.	आदमी के कान पर काला कान फिरा
-2348166	247	144	37	99	part of a black and gray tie	एक काले और भूरे रंग की टाई का हिस्सा
-2372434	199	263	145	139	dog standing on the grass	घास पर खड़ा कुत्ता
-2332990	211	153	58	100	Blue skies in the photo	फोटो में नीला आसमान
-2317143	57	94	233	305	giraffes that are outside	जिराफ जो बाहर हैं
-713165	4	95	1013	147	The mountain range in the back	पीछे में पहाड़ी श्रृंखला
-2392296	79	240	65	94	Man wearing red tie	आदमी लाल टाई पहने
-2378614	267	306	97	41	Orange part on front of train.	ट्रेन के सामने नारंगी हिस्सा।
-2366499	77	98	117	84	a brown bear standing	एक भूरा भालू खड़ा है
-713171	2	6	506	146	Row of wine glasses	शराब के गिलास की पंक्ति
-2356125	260	193	194	155	The ladies are pushing luggage	महिलाओं सामान दे रहे हैं
-2410106	11	8	484	352	vegetables at a farmer's market	किसानों के बाजार में सब्जियाँ
-2319123	124	81	30	70	Giraffe head on top of another.	दूसरे के ऊपर जिराफ का सिर।
-2336722	188	118	112	64	street signs in different directions	विभिन्न दिशाओं में सड़क संकेत
-2382702	334	208	79	40	clothes hang on display	कपड़े प्रदर्शन पर लटका
-2360675	194	131	135	139	This is a sheep	यह एक भेड़ है
-2396168	242	305	80	40	brown rocks on the ground	जमीन पर भूरे रंग के चट्टानों
-2326225	41	187	107	213	person with red sleeves	लाल आस्तीन के साथ व्यक्ति
-2360429	20	111	281	170	umbrella is upside down	लाल फीता के साथ व्यक्ति
-2389451	10	119	60	20	three red dishes on shelf	शेल्फ पर तीन लाल व्यंजन
-2397824	7	289	257	209	The pizza is large	पिज़्ज़ा बड़ा है
-2387418	405	127	85	40	people with arms and legs hanging from train	ट्रेन से लटकते हुए हाथ और पैर वाले लोग
-2008	257	38	36	344	the post on the bed frame	बिस्तर पर खमबा
-2089	60	347	78	218	a tall black stereo speaker	एक लंबा काला स्टीरियो स्पीकर
-2366543	285	182	88	115	cake on a plate	प्लेट पर केक
-2356861	78	33	218	240	A pizza on a wooden plate	एक लकड़ी की प्लेट पर एक पिज्जा
-2388884	144	102	236	109	A cat wedged between books and a shelve.	पुस्तकों और शेल्फ के बीच बिल्ली
-2354846	151	208	174	118	A hotdog in the photo	फोटो में एक हॉटडॉग
-2373753	167	159	28	30	Black fur in the photo.	फोटो में काला समूर
-2388913	99	65	388	201	a black car on the road	सड़क पर एक काली कार
-2342527	358	109	91	228	a person on snow skis	बर्फ स्किस पर व्यक्ति
-2401732	170	128	123	30	A row of round windows on an airplane	एक हवाई जहाज पर गोल खिड़कियों की एक पंक्ति
-2350619	82	246	100	37	Pedal hanging out side of ferry.	पेडल फेरी की तरफ लपके
-2399213	338	112	17	12	Man with a helmet on his head	मनुष्य के सिर पर हेलमेट
-2333255	244	115	17	21	Part of the building	इमारत का भाग
-2322256	27	171	45	166	the leg of a person playing a game	एक गेम खेलते हुए व्यक्ति का पैर
-2327875	185	163	152	120	Person on a board	एक बोर्ड पर व्यक्ति
-2317524	61	396	38	100	leg of a giraffe	जिराफ का पैर
+2352814	2	60	80	175	A woman playing soccer	ఒక స్త్రీ సాకర్ ఆడుతున్నది
+2366511	37	62	405	272	tall giraffe behind fence	కంచె వెనుక పొడవైన జిరాఫీ
+2354417	223	303	37	26	writing on yellow sign.	పసుపు గుర్తుపై రాయడం
+2328640	285	95	52	146	loosely braided long dark hair	వదులుగా అల్లిన పొడవాటి ముదురు జుట్టు
+1159734	449	483	45	56	a person wearing a grey shirt	బూడిద రంగు షిర్ ధరించిన వ్యక్తి
+2392730	97	52	282	272	the pizza is big	పిజ్జా పెద్దది
+2402077	13	7	485	362	A cheeky toilet	ఒక చెంప టాయిలెట్
+2325236	143	156	209	139	silver grey flip phone	సిల్వర్ గ్రే ఫ్లిప్ ఫోన్
+2337547	88	248	209	204	Apple with stem in center	మధ్యలో కాండం ఉన్న ఆపిల్
+2321770	295	217	152	99	a white surf board with writing on it	తెల్లటి సర్ఫ్ బోర్డు దానిపై రాసి ఉంది
+2391019	160	310	71	42	passenger reading the paper.	పేపర్ చదువుతున్న ప్రయాణీకుడు.
+2349687	398	84	47	60	pink and red flower on wing tip	రెక్కల కొనపై గులాబీ మరియు ఎరుపు పువ్వు
+2407711	85	37	150	101	A clock on a structure	నిర్మాణంపై గడియారం
+2353445	6	25	486	300	The zebras are standing in tall grass	జీబ్రాస్ పొడవైన గడ్డిలో నిలబడి ఉన్నాయి
+2333862	0	6	497	325	Photo is in black and white	ఫోటో నలుపు మరియు తెలుపులో ఉంది
+2339759	62	37	155	225	a woman serving a tennis ball	ఒక మహిళ టెన్నిస్ బంతిని అందిస్తోంది
+2360362	195	98	77	232	Skate board	స్కేట్ బోర్డు
+2356431	231	371	40	45	sleeping dog by tree	చెట్టు మీద నిద్రిస్తున్న కుక్క
+2331093	171	266	93	68	Shoes on the floor.	నేలపై బూట్లు.
+2411133	138	275	197	80	A white upside down boat	తలక్రిందులుగా ఉన్న తెల్లటి పడవ
+2358293	103	52	125	161	Young man skateboarding	స్కేట్‌బోర్డింగ్ చేస్తున్న యువకుడు
+2396668	47	51	319	283	an orange and white boat	నారింజ మరియు తెలుపు పడవ
+2398809	273	96	30	48	A TRAFFIC LIGHT ON GREEN	ఆకుపచ్చ రంగులో ట్రాఫిక్ లైట్
+2357489	331	253	87	85	the short is brown	పొట్టిగా గోధుమ రంగులో ఉంటుంది
+2371303	186	140	87	168	the man is surfing	మనిషి సర్ఫింగ్ చేస్తున్నాడు
+2363766	197	408	123	90	A cake studded with blueberries	బ్లూబెర్రీస్‌తో నిండిన కేక్
+2356718	148	356	47	53	pinks marks on the surface	ఉపరితలంపై గులాబీ గుర్తులు
+2413779	219	456	9	10	a screw on the surfboard	సర్ఫ్‌బోర్డ్‌లో ఒక స్క్రూ
+2381048	141	142	41	44	woman wearing white hat	తెల్లటి టోపీ ధరించిన స్త్రీ
+2389116	198	30	220	162	White stuffed bears on display.	ప్రదర్శనలో వైట్ స్టఫ్డ్ ఎలుగుబంట్లు.
+2322849	55	50	221	282	grey suitcase on ground	నేలపై బూడిద రంగు సూట్‌కేస్
+2356879	86	0	254	332	a tennis player seated	ఒక టెన్నిస్ ఆటగాడు కూర్చున్నాడు
+2363225	128	171	186	328	the shirt is stripes	చొక్కా చారలు
+2391983	6	5	385	394	Ball protection net for the fans	అభిమానులకు బంతి రక్షణ వల
+842	327	313	94	162	the trash can is black	చెత్త డబ్బా నల్లగా ఉంటుంది
+2332275	98	461	58	13	Bunch of fruits on a stand.	స్టాండ్‌పై పండ్ల గుత్తి.
+2372110	43	129	446	140	the people on the road on motorcycles	మోటారు సైకిళ్లపై రోడ్డుపై ఉన్న ప్రజలు
+2397715	80	44	261	372	a female tennis player	ఒక మహిళా టెన్నిస్ క్రీడాకారిణి
+2382944	135	223	52	53	The black ear muff on the man's ear.	మనిషి చెవిలో నల్లటి చెవి మఫ్.
+2348166	247	144	37	99	part of a black and gray tie	నలుపు మరియు బూడిద రంగు టైలో భాగం
+2372434	199	263	145	139	dog standing on the grass	కుక్క గడ్డి మీద నిలబడి ఉంది
+2332990	211	153	58	100	Blue skies in the photo	ఫోటోలో నీలి ఆకాశం
+2317143	57	94	233	305	giraffes that are outside	బయట ఉన్న జిరాఫీలు
+713165	4	95	1013	147	The mountain range in the back	వెనుక పర్వత శ్రేణి
+2392296	79	240	65	94	Man wearing red tie	ఎర్రటి టై ధరించిన వ్యక్తి
+2378614	267	306	97	41	Orange part on front of train.	రైలు ముందు నారింజ రంగు భాగం.
+2366499	77	98	117	84	a brown bear standing	ఒక గోధుమ రంగు ఎలుగుబంటి నిలబడి ఉంది
+713171	2	6	506	146	Row of wine glasses	వైన్ గ్లాసుల వరుస
+2356125	260	193	194	155	The ladies are pushing luggage	ఆడవాళ్ళు లగేజీ తోసుకుంటున్నారు
+2410106	11	8	484	352	vegetables at a farmer's market	రైతు బజారులో కూరగాయలు
+2319123	124	81	30	70	Giraffe head on top of another.	జిరాఫీ తల మరొకదానిపై ఉంది.
+2336722	188	118	112	64	street signs in different directions	వివిధ దిశలలో వీధి సంకేతాలు
+2382702	334	208	79	40	clothes hang on display	బట్టలు ప్రదర్శనలో వేలాడుతున్నాయి
+2360675	194	131	135	139	This is a sheep	ఇది ఒక గొర్రె
+2396168	242	305	80	40	brown rocks on the ground	నేలపై గోధుమ రాళ్ళు
+2326225	41	187	107	213	person with red sleeves	ఎరుపు స్లీవ్లు ఉన్న వ్యక్తి
+2360429	20	111	281	170	umbrella is upside down	గొడుగు తలక్రిందులుగా ఉంది
+2389451	10	119	60	20	three red dishes on shelf	షెల్ఫ్‌లో మూడు ఎరుపు వంటకాలు
+2397824	7	289	257	209	The pizza is large	పిజ్జా పెద్దది
+2387418	405	127	85	40	people with arms and legs hanging from train	రైలుకు వేలాడుతున్న చేతులు మరియు కాళ్లు ఉన్న వ్యక్తులు
+2008	257	38	36	344	the post on the bed frame	బెడ్ ఫ్రేమ్‌పై పోస్ట్
+2089	60	347	78	218	a tall black stereo speaker	ఒక పొడవైన నల్లని స్టీరియో స్పీకర్
+2366543	285	182	88	115	cake on a plate ఒక ప్లేట్ మీద కేక్
+2356861	78	33	218	240	A pizza on a wooden plate	చెక్క ప్లేట్ మీద పిజ్జా
+2388884	144	102	236	109	A cat wedged between books and a shelve.	ఒక పిల్లి పుస్తకాలు మరియు షెల్ఫ్ మధ్య చీలిపోయింది.
+2354846	151	208	174	118	A hotdog in the photo	ఫోటోలో హాట్‌డాగ్
+2373753	167	159	28	30	Black fur in the photo.	ఫోటోలో నల్లటి బొచ్చు.
+2388913	99	65	388	201	a black car on the road	రోడ్డు మీద నల్లటి కారు
+2342527	358	109	91	228	a person on snow skis	మంచు స్కిస్‌పై ఉన్న వ్యక్తి
+2401732	170	128	123	30	A row of round windows on an airplane	విమానంలో గుండ్రని కిటికీల వరుస
+2350619	82	246	100	37	Pedal hanging out side of ferry.	ఫెర్రీ వైపు వేలాడుతున్న పెడల్.
+2399213	338	112	17	12	Man with a helmet on his head	తలపై హెల్మెట్‌తో ఉన్న వ్యక్తి
+2333255	244	115	17	21	Part of the building	భవనంలో భాగం
+2322256	27	171	45	166	the leg of a person playing a game	ఆట ఆడుతున్న వ్యక్తి యొక్క కాలు
+2327875	185	163	152	120	Person on a board	బోర్డు మీద వ్యక్తి
+2317524	61	396	38	100	leg of a giraffe	జిరాఫీ కాలు
 2331466	62	9	53	38	this is the sky	ఇది ఆకాశం
-2377420	26	201	162	172	a woman sits alone on a bench	एक महिला बेंच पर अकेली बैठती है
-2384305	321	202	57	15	Taillights of car on road	सड़क पर कार की रोशनी
-2347223	185	446	27	36	part of a wood	लकड़ी का हिस्सा
-2355195	79	44	129	451	large clock tower behind some trees	कुछ पेड़ों के पीछे बड़ी घड़ी टावर
-2334594	77	137	363	160	black fans on boats	नावों पर काले प्रशंसक
-2333973	45	115	148	175	man with paddle in water	पानी में पैडल मारने वाला आदमी
-285662	35	38	918	702	A wall on the side of a building	इमारत के किनारे पर एक दीवार
-2406936	125	111	98	108	An animal cracker treat	एक पशु क्रैकर के मज़े लेते हुए
-2340461	111	54	342	216	two elephants standing in the water	पानी में खड़े दो हाथी
-2376917	117	79	168	135	a crane wading in the water	पानी में क्रेन वाडिंग
-2372044	0	4	498	364	the pizza is cooked	पिज्जा पकाया जाता है
-2327114	385	238	42	25	Red carpet on the ground.	जमीन पर लाल कालीन
+2377420	26	201	162	172	a woman sits alone on a bench	ఒక స్త్రీ ఒంటరిగా బెంచ్ మీద కూర్చుంది
+2384305	321	202	57	15	Taillights of car on road	రోడ్డు మీద కారు టెయిల్‌లైట్లు
+2347223	185	446	27	36	part of a wood	ఒక చెక్క భాగం
+2355195	79	44	129	451	large clock tower behind some trees	కొన్ని చెట్ల వెనుక పెద్ద క్లాక్ టవర్
+2334594	77	137	363	160	black fans on boats	పడవలపై నల్ల అభిమానులు
+2333973	45	115	148	175	man with paddle in water	నీటిలో తెడ్డు ఉన్న మనిషి
+285662	35	38	918	702	A wall on the side of a building	భవనం వైపు గోడ
+2406936	125	111	98	108	An animal cracker treat	ఒక జంతు క్రాకర్ ట్రీట్
+2340461	111	54	342	216	two elephants standing in the water	రెండు ఏనుగులు నీటిలో నిలబడి ఉన్నాయి
+2376917	117	79	168	135	a crane wading in the water	ఒక క్రేన్ నీటిలో కొట్టుకుంటోంది
+2372044	0	4	498	364	the pizza is cooked	పిజ్జా వండుతారు
+2327114	385	238	42	25	Red carpet on the ground.	నేలపై రెడ్ కార్పెట్.
 2328651	131	189	94	94	large gold clock in middle of tower	टावर के बीच बड़े सोने की घड़ी
 2389619	101	166	21	24	red light on a traffic signal	यातायात संकेत पर लाल प्रकाश
 2338594	288	79	162	225	A guy pose for good with snow ski.	बर्फ के साथ अच्छा मुद्रा बनाने वाला एक आदमी .
@@ -605,7 +605,7 @@
 2330649	1	0	497	185	a beautiful clear blue sky	एक सुंदर नीला आकाश
 2324599	77	35	374	327	this is a train	यह एक रेलगाड़ी है
 2325889	61	9	410	185	a sign on a pole	ध्रुव पर एक चिन्ह
-2398103	62	136	120	130	the elephant is big	हाथी बड़ा है
+2398103	62	136	120	130	the elephant is big	ఏనుగు పెద్దది
 2344332	346	271	118	55	Woman wearing shoes	जूते पेहने औरत
 2324240	332	118	113	10	a white tank lid	एक सफेद टैंक कि ढ्क्क्न
 2323087	163	81	39	32	banana raised in a right hand	केले को दाएं हाथ में उठाया गया
@@ -616,7 +616,7 @@
 2316202	32	151	270	162	cow in a green field	एक हरे खेत में गाय
 2319996	194	311	33	26	HANDICAP SIGN ON BUS	बस पर HANDICAP साइन
 2349141	8	7	485	360	racks of pastries on metal trays on display	प्रदर्शन पर धातु के ट्रैक्स पर पास्टिव का प्रदर्शन
-2393524	0	0	228	116	the containers are orange	कंटेनर नारंगी हैं
+2393524	0	0	228	116	the containers are orange	కంటెనర్స్ ఆరెంజ్ రంగులో ఉన్నాయి
 2321759	90	185	186	301	this is a man	यह एक आदमी है
 713836	280	159	544	690	a guy is skating	एक आदमी स्केटिंग कर रहा है
 2402827	211	127	156	47	the white post sign	सफेद पोस्ट चिह्न
@@ -628,76 +628,76 @@
 2340330	290	212	45	38	Rice in the white bowl	शसफेद कटोरे में चावल
 2330895	325	113	74	43	man wearing red sunglasses	लाल धूप का चश्मा पहने हुए आदमी
 2350934	258	70	106	303	an octagon sign is on a steel pole	एक अष्टकोणीय चिह्न एक स्टील ध्रुव पर है।
-205	1	458	157	91	silver car is parked	चांदी की गाड़ी खड़ी है
-2326027	220	61	100	55	head of a giraffe	जिराफ़ का प्रमुख
-2357347	53	366	226	111	a van on the side of street	सड़क के किनारे एक वैन
-2390630	79	47	384	360	flock of black birds	काले पक्षियों का झुंड
-2365051	38	82	121	153	a young boy with brown hair	भूरे बालों के साथ एक युवक
-2325372	0	145	192	90	a cemetary with commemorative sculptures	स्मारक मूर्तियों के साथ एक कब्रिस्तान
-2409224	282	298	77	70	Ketchup packet sitting on a table	केचअप पैकेट एक तालिका पर बैठे हुए
-2373158	238	34	202	277	large black dog running	बड़ा काला कुत्ता चल रहा है
-2356216	76	250	241	216	Red flower petals on bedspread.	बेडस्प्रेड पर लाल फूल की पंखुड़ियां।
-2363526	101	140	152	285	A man flying a kite at the beach	समुद्र तट पर पतंग उड़ाता एक आदमी
-2387553	74	169	74	95	a woman in pink glasses	गुलाबी चश्मे में एक औरत
-2392557	2	37	139	459	man wearing a suit	एक सूट पहनने वाला आदमी
-2408652	43	79	248	418	Woman has hot dog.	महिला के पास हॉट डॉग है
-2411891	0	73	240	254	a white and blue train	एक सफेद और नीली रेलगाड़ी
-587	418	330	194	84	Yellow taxi cab on the street.	सड़क पर पीला टैक्सी कैब।
-2356083	86	37	82	25	shine on a white plate	एक सफेद प्लेट पर चमकता हुआ
-2394451	15	48	476	289	A man and a woman at the dining table	एक व्यक्ति और एक महिला भोजन मेज पर
-2416976	37	47	293	311	head of brown and cream giraffe	ब्राउन और क्रीम जिराफ के सिर
-2326947	0	113	499	51	a row of trailers	प्रशिक्षकों की एक पंक्ति
-2320750	91	93	327	202	this is a parade	यह एक परेड है
-2320658	168	166	195	136	People riding bikes across street	सड़क के पार बाइक चलाते लोग
-2390025	138	30	235	283	red and white stop sign	लाल और सफेद चिह्न
-2333024	1	3	495	365	this is a pizza	यह एक पिज़्ज़ा है
-2348571	90	116	68	81	a dog in swimming pool	स्विमिंग पूल में एक कुत्ता
-2411964	128	141	69	54	Crocheted brown bear face	भूरे रंग के भालू का चेहरा
-2339157	328	58	23	17	goggles on man's face	आदमी के चेहरे पर चश्मा
-2414359	209	78	108	177	awesome yellow cat tie	खूबसुरत पीली बिल्ली टाई
-2399148	272	155	126	62	two sheep laying on the ground	दो भेड़ जमीन पर बनाती हैं
-2378767	101	83	319	290	Cat sitting in a sink	बिल्ली एक सिंक में बैठे
-2360622	261	298	40	51	an orange construction sign	एक नारंगी निर्माण संकेत
-2369695	236	70	182	202	blue clock with gold hands	सोने के हाथों से नीली घड़ी
-2346690	62	7	239	460	the man throwing the frisbee	आदमी फ्रिसबी फेंक रहा है
-2388362	314	92	85	190	the plane is white and green	हवाई जहाज सफेद और हरा है
-2371561	278	100	205	190	a pair of kitchen scissors	रसोई कैंची की एक जोड़ी
-2389798	251	161	34	38	Small bruise on banana	केले पर छोटी-छोटी चोट
-2340313	192	96	28	193	pole made of cement	सीमेंट का ध्रुव
-4247	286	30	75	93	A wall on the side of a building	इमारत के किनारे पर एक दीवार
-2390586	30	50	190	230	a guy	एक आदमी
-2347283	23	225	166	102	a dumpling is bitten into	एक गुलगुला काट दिया जाता है
-333	466	321	110	101	coffee in a coffee pot	एक कॉफी पॉट में कॉफी
-2383926	135	202	56	73	blue and yellow parrot	नीला और पीला तोते
-2372989	70	29	362	297	Black motorcycle on the ground	जमीन पर काले मोटरसाइकिल
-2356024	130	115	49	58	A giraffe ear on his head.	उसके सिर पर एक गिराफ कान
-2382601	100	123	321	243	an off road vehicle	एक ऑफ सड़क वाहन
-2328870	107	441	94	51	Man wearing shoes	जूते पहने हुए आदमी
-2399300	129	352	33	60	a tall red soccer sock	लाल फुटबॉल सॉक
-2369162	150	190	50	174	young woman playing tennis	युवती टेनिस खेल
-2324429	20	143	330	235	this is a soccer jersey	यह फुटबॉल जर्सी है
-1159877	742	170	106	150	the head of a man	आदमी का सर
-2417968	70	3	384	342	Man with dark hair smiling.	मुस्कुराते हुए काले बाल वाले आदमी।
-2339982	13	41	485	227	a red white and blue airplane	लाल सफेद और नीला हवाई अड्डा
-2317503	306	190	187	132	A blue bus	एक नीली बस
-2326663	132	8	68	59	Black helmet with \T\ on it	इस पर काला हेल्मेट
-1828	301	371	166	224	tree on the ground	जमीन पर पेड़
-2359103	5	7	310	491	a toilet in a bathroom	बाथरूम में शौचालय
-2393759	94	57	179	289	A kid playing baseball	एक बच्चा बेसबॉल खेल रहा है
-2375211	4	10	487	356	two pizzas on a table	एक तालिका पर दो पिज़ज़स
-2382459	17	27	434	256	an important building next to big ben	बड़े बेन के बगल में एक महत्वपूर्ण इमारत
-2412662	163	192	324	79	group of rusty train tracks	अमेरिकी ट्रेन का समूह
-2350092	234	90	68	85	people wearing yellow vests	पीले वीस्ट पहने हुए लोग
-2397718	141	75	357	250	a group of black birds	काले पक्षियों का समूह
-2322563	136	318	45	28	Two white suit cases as toys.	दो सफेद मामलों के रूप में
-2382112	321	91	42	131	pink bathroom towel hung on wall	गुलाबी बाथरूम तौलिया दीवार पर लटका दिया
-2351758	81	233	42	27	a small white van	एक छोटा सफेद वान
-2363489	144	8	182	324	a baseball player warming up to bat	एक बेसेबॉल खिलाड़ी जो बल्ले के लिए वार्मिंग करता है
-2417039	199	133	150	66	a United States Space Shuttle	एक संयुक्त राज्य अमेरिका अंतरिक्ष शूटल
-2320648	177	110	101	102	zebra cropping grass in a field	ज़ेबरा खेत में घास काटना
-2344205	188	143	151	117	black traffic signals	काला यातायात संकेत
-2321063	0	313	215	60	Cruise boat on the water	पानी पर क्रूज़ नाव
-2407371	290	254	14	42	Orange tassel that is hanging.	नारंगी लटकन जो लटकी हो
+205	1	458	157	91	silver car is parked	వెండి కారు ఆగి ఉంది
+2326027	220	61	100	55	head of a giraffe	జిరాఫీ తల
+2357347	53	366	226	111	a van on the side of street	వీధి పక్కన ఒక వ్యాన్
+2390630	79	47	384	360	flock of black birds	నల్ల పక్షుల మంద
+2365051	38	82	121	153	a young boy with brown hair	గోధుమ రంగు జుట్టుతో ఒక యువకుడు
+2325372	0	145	192	90	a cemetary with commemorative sculptures	స్మారక శిల్పాలతో కూడిన స్మశానవాటిక
+2409224	282	298	77	70	Ketchup packet sitting on a table	టేబుల్ మీద కూర్చున్న కెచప్ ప్యాకెట్
+2373158	238	34	202	277	large black dog running	పెద్ద నల్ల కుక్క నడుస్తోంది
+2356216	76	250	241	216	Red flower petals on bedspread.	బెడ్‌స్ప్రెడ్‌పై ఎర్రటి పూల రేకులు.
+2363526	101	140	152	285	A man flying a kite at the beach	బీచ్‌లో గాలిపటం ఎగురవేస్తున్న వ్యక్తి
+2387553	74	169	74	95	a woman in pink glasses	పింక్ గ్లాసెస్ ధరించిన స్త్రీ
+2392557	2	37	139	459	man wearing a suit	సూట్ ధరించిన వ్యక్తి
+2408652	43	79	248	418	Woman has hot dog.	స్త్రీకి హాట్ డాగ్ ఉంది.
+2411891	0	73	240	254	a white and blue train	తెలుపు మరియు నీలం రైలు
+587	418	330	194	84	Yellow taxi cab on the street.	వీధిలో పసుపు టాక్సీ క్యాబ్.
+2356083	86	37	82	25	shine on a white plate	తెల్లటి ప్లేట్ మీద ప్రకాశిస్తుంది
+2394451	15	48	476	289	A man and a woman at the dining table డైనింగ్ టేబుల్ వద్ద ఒక పురుషుడు మరియు స్త్రీ
+2416976	37	47	293	311	head of brown and cream giraffe	గోధుమ మరియు క్రీమ్ జిరాఫీ తల
+2326947	0	113	499	51	a row of trailers ట్రైలర్ల వరుస
+2320750	91	93	327	202	this is a parade	ఇది కవాతు
+2320658	168	166	195	136	People riding bikes across street	వీధిలో బైకులు నడుపుతున్న వ్యక్తులు
+2390025	138	30	235	283	red and white stop sign	ఎరుపు మరియు తెలుపు స్టాప్ గుర్తు
+2333024	1	3	495	365	this is a pizza	ఇది పిజ్జా
+2348571	90	116	68	81	a dog in swimming pool	స్విమ్మింగ్ పూల్ లో ఒక కుక్క
+2411964	128	141	69	54	Crocheted brown bear face	క్రోచెట్ బ్రౌన్ ఎలుగుబంటి ముఖం
+2339157	328	58	23	17	goggles on man's face	మనిషి ముఖం మీద గాగుల్స్
+2414359	209	78	108	177	awesome yellow cat tie	మనిషి ముఖం మీద గాగుల్స్
+2399148	272	155	126	62	two sheep laying on the ground	రెండు గొర్రెలు నేలపై ఉన్నాయి
+2378767	101	83	319	290	Cat sitting in a sink	సింక్‌లో కూర్చున్న పిల్లి
+2360622	261	298	40	51	an orange construction sign	ఒక నారింజ నిర్మాణ చిహ్నం
+2369695	236	70	182	202	blue clock with gold hands	బంగారు చేతులతో నీలం గడియారం
+2346690	62	7	239	460	the man throwing the frisbee	ఫ్రిస్బీని విసిరే వ్యక్తి
+2388362	314	92	85	190	the plane is white and green	విమానం తెలుపు మరియు ఆకుపచ్చ
+2371561	278	100	205	190	a pair of kitchen scissors	ఒక జత వంటగది కత్తెర
+2389798	251	161	34	38	Small bruise on banana	అరటిపండుపై చిన్న గాయం
+2340313	192	96	28	193	pole made of cement	సిమెంటుతో చేసిన స్తంభం
+4247	286	30	75	93	A wall on the side of a building	భవనం వైపు గోడ
+2390586	30	50	190	230	a guy	ఒక వ్యక్తి
+2347283	23	225	166	102	a dumpling is bitten into	ఒక కుడుములు కరిచింది
+333	466	321	110	101	coffee in a coffee pot	కాఫీ కుండలో కాఫీ
+2383926	135	202	56	73	blue and yellow parrot	నీలం మరియు పసుపు చిలుక
+2372989	70	29	362	297	Black motorcycle on the ground	నేలపై నల్లటి మోటార్ సైకిల్
+2356024	130	115	49	58	A giraffe ear on his head.	అతని తలపై జిరాఫీ చెవి.
+2382601	100	123	321	243	an off road vehicle	ఆఫ్ రోడ్ వాహనం
+2328870	107	441	94	51	Man wearing shoes	బూట్లు ధరించిన వ్యక్తి
+2399300	129	352	33	60	a tall red soccer sock	ఒక పొడవైన ఎరుపు సాకర్ గుంట
+2369162	150	190	50	174	young woman playing tennis	టెన్నిస్ ఆడుతున్న యువతి
+2324429	20	143	330	235	this is a soccer jersey	ఇది సాకర్ జెర్సీ
+1159877	742	170	106	150	the head of a man	ఒక మనిషి యొక్క తల
+2417968	70	3	384	342	Man with dark hair smiling.	ముదురు జుట్టుతో నవ్వుతున్న వ్యక్తి.
+2339982	13	41	485	227	a red white and blue airplane	ఎరుపు తెలుపు మరియు నీలం విమానం
+2317503	306	190	187	132	A blue bus	నీలిరంగు బస్సు
+2326663	132	8	68	59	Black helmet with \T\ on it	T ఉన్న నల్లని హెల్మెట్
+1828	301	371	166	224	tree on the ground	నేల మీద చెట్టు
+2359103	5	7	310	491	a toilet in a bathroom	బాత్రూంలో ఒక టాయిలెట్
+2393759	94	57	179	289	A kid playing baseball	బేస్ బాల్ ఆడుతున్న పిల్లాడు
+2375211	4	10	487	356	two pizzas on a table	ఒక టేబుల్ మీద రెండు పిజ్జాలు
+2382459	17	27	434	256	an important building next to big ben	పెద్ద బెన్ పక్కన ఒక ముఖ్యమైన భవనం
+2412662	163	192	324	79	group of rusty train tracks	తుప్పు పట్టిన రైలు పట్టాల సమూహం
+2350092	234	90	68	85	people wearing yellow vests	పసుపు చొక్కాలు ధరించిన వ్యక్తులు
+2397718	141	75	357	250	a group of black birds	నల్ల పక్షుల సమూహం
+2322563	136	318	45	28	Two white suit cases as toys.	బొమ్మలుగా రెండు తెల్లటి సూట్ కేసులు.
+2382112	321	91	42	131	pink bathroom towel hung on wall	పింక్ బాత్రూమ్ టవల్ గోడకు వేలాడదీసింది
+2351758	81	233	42	27	a small white van	ఒక చిన్న తెల్లని వ్యాన్
+2363489	144	8	182	324	a baseball player warming up to bat	బ్యాటింగ్ చేయడానికి వేడెక్కుతున్న బేస్ బాల్ ఆటగాడు
+2417039	199	133	150	66	a United States Space Shuttle	యునైటెడ్ స్టేట్స్ స్పేస్ షటిల్
+2320648	177	110	101	102	zebra cropping grass in a field	ఒక పొలంలో జీబ్రా పంట గడ్డి
+2344205	188	143	151	117	black traffic signals	బ్లాక్ ట్రాఫిక్ సిగ్నల్స్
+2321063	0	313	215	60	Cruise boat on the water	నీటి మీద క్రూజ్ బోట్
+2407371	290	254	14	42	Orange tassel that is hanging.	వేలాడుతున్న ఆరెంజ్ టాసెల్.
 713727	8	5	787	411	a scene during the day time	दिन के दौरान एक दृश्य
 2359972	120	193	36	32	rock in field	क्षेत्र में चट्टान
 2332065	43	35	70	65	this is the sky	ఇది ఆకాశం
