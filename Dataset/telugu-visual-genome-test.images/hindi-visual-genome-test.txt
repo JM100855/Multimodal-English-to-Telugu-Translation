@@ -798,7 +798,6 @@
 1867	439	214	61	80	a \Stop\ sign on a pole	एक पोल पर एक \ Stop\साइन
 2372291	72	0	302	320	people carrying suitcases	सूटकेस ले जाने वाले लोग
 2405790	102	26	256	386	stone tower with clock	घड़ी के साथ पत्थर टावर
-=======
 2337875	16	19	442	170	red airplane on runway	रनवे पर लाल हवाई जहाज
 2354876	297	334	44	62	this is the wall	यह दीवार है
 2392354	288	206	124	50	The frisbee is orange	फ्रिस्बी नारंगी है
