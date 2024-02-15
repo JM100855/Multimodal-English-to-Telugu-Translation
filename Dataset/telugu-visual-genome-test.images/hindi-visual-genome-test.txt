@@ -98,38 +98,38 @@
 2363302	111	156	168	331	the man has glasses on	మనిషికి అద్దాలు ఉన్నాయి
 2395812	5	0	325	189	The roof is sheet metal	పైకప్పు షీట్ మెటల్
 2407036	178	94	129	75	this is the sky	ఇది ఆకాశం
-2374262	250	266	70	75	drain of the sink	नाली का निकास
-2345771	126	41	311	64	The sign that reads \Water\	पानी का चिह्न
-2360353	24	34	313	320	this is taken inside	यह अंदर ले जाया गया है
-2337165	186	8	160	322	a child on the tennis court	टेनिस कोर्ट पर एक बच्चा
-2363152	134	335	71	18	eyes of a cat	एक बिल्ली की आँखें
-2338500	141	94	187	195	elephant is grazing	हाथी चर रहा है
-2381317	159	47	255	262	man standing on motorcycle	मोटरसाइकिल पर खड़ा व्यक्ति
-2343764	7	72	117	142	this is a car	यह एक कार है
-2400005	238	76	146	172	a baby elephant.	एक बच्चा हाथी
-2368454	36	175	397	82	Animal on the beach.	समुद्र तट पर जानवर
-2411661	48	193	217	261	a motorcycle parked	एक मोटरसाइकिल पार्क किया गया
-2402248	93	84	221	189	an airplane in the sky	आकाश में हवाई जहाज
-2402046	48	144	254	254	The boat in the bay	खाड़ी में नाव
-2328480	126	286	138	110	WHITE CHAIR IN DINING AREA	डाइटिंग क्षेत्र में सफेद कुर्सी
-2326537	1	194	309	95	a person's extended hand	एक व्यक्ति का विस्तारित हाथ
-2325147	189	253	34	220	a towering sky needle structure	एक विशाल आकाश सुई संरचना
-2401168	26	129	325	157	pizza on the counter	काउन्टर पर पिज़्ज़ा
-2338977	423	274	47	51	parasailer in the ocean	समुद्र में पारासेलर
-2323602	1	8	485	365	woman drinking from wine glass	शराब के गिलास से पीती महिला
-2409256	262	236	85	47	Zebra standing with giraffe.	ज़ेब्रा गिराफ़ के साथ खड़े हुए
-497982	74	74	934	589	two men are snow boarding	दो आदमी स्नो बोर्डिंग कर रहे हैं
-2369037	242	45	22	52	Horse wears jewelry on head.	घोड़ा सिर पर गहने पहनता है।
-2406097	10	261	349	199	An old cement bench with paintings on it.	उस पर चित्रों के साथ एक पुरानी सीमेंट की बेंच
-2336992	42	205	34	123	a man on the steps of a train	एक ट्रेन की सीढ़ियों पर एक आदमी
-3669	180	80	65	105	glass window on house	घर मे कांच की खिड्की
-2395068	2	87	307	285	a woman wearing a black helmet	एक महिला काला हेल्मेट पहने
-2383158	141	20	77	52	the cabinets are white	अलमारियाँ सफेद हैं
-2384518	64	136	427	271	pancakes on a plate	प्लेट पर पैंकेक
-2370498	265	95	22	14	a blue baseball cap	एक नीला बेसेबॉल टोपी
-2350124	5	46	35	37	this is the sky	यह आकाश है
-2395456	0	329	372	169	large icy pond	विशाल बर्फिला तलाब
-1592319	0	279	200	46	Young girl laying on the beach.	युवा लड़की समुद्र तट पर लैटी है .
+2374262	250	266	70	75	drain of the sink	సింక్ యొక్క కాలువ
+2345771	126	41	311	64	The sign that reads \Water\	\నీరు\ అని రాసే గుర్తు
+2360353	24	34	313	320	this is taken inside	ఇది లోపలికి తీసుకోబడింది
+2337165	186	8	160	322	a child on the tennis court	టెన్నిస్ కోర్టులో ఒక పిల్లవాడు
+2363152	134	335	71	18	eyes of a cat	పిల్లి కళ్ళు
+2338500	141	94	187	195	elephant is grazing	ఏనుగు మేస్తోంది
+2381317	159	47	255	262	man standing on motorcycle	మోటారు సైకిల్‌పై నిలబడి ఉన్న వ్యక్తి
+2343764	7	72	117	142	this is a car	ఇది ఒక కారు
+2400005	238	76	146	172	a baby elephant.	ఒక పిల్ల ఏనుగు
+2368454	36	175	397	82	Animal on the beach.	బీచ్‌లో జంతువు
+2411661	48	193	217	261	a motorcycle parked	ఒక మోటార్ సైకిల్ ఆపి ఉంది
+2402248	93	84	221	189	an airplane in the sky	ఆకాశంలో ఒక విమానం
+2402046	48	144	254	254	The boat in the bay	బేలో పడవ
+2328480	126	286	138	110	WHITE CHAIR IN DINING AREA	డైనింగ్ ఏరియాలో వైట్ చైర్
+2326537	1	194	309	95	a person's extended hand	ఒక వ్యక్తి యొక్క విస్తరించిన చేయి
+2325147	189	253	34	220	a towering sky needle structure	ఒక ఎత్తైన ఆకాశం సూది నిర్మాణం
+2401168	26	129	325	157	pizza on the counter	కౌంటర్లో పిజ్జా
+2338977	423	274	47	51	parasailer in the ocean	సముద్రంలో పారాసైలర్
+2323602	1	8	485	365	woman drinking from wine glass	వైన్ గ్లాస్ నుండి తాగుతున్న స్త్రీ
+2409256	262	236	85	47	Zebra standing with giraffe.	జీబ్రా జిరాఫీతో నిలబడి ఉంది
+497982	74	74	934	589	two men are snow boarding	ఇద్దరు పురుషులు స్నో బోర్డింగ్ చేస్తున్నారు
+2369037	242	45	22	52	Horse wears jewelry on head.	గుర్రం తలపై నగలు ధరించింది
+2406097	10	261	349	199	An old cement bench with paintings on it.	పెయింటింగ్స్ ఉన్న పాత సిమెంట్ బెంచీ
+2336992	42	205	34	123	a man on the steps of a train	రైలు మెట్ల మీద ఒక వ్యక్తి
+3669	180	80	65	105	glass window on house	ఇంటి మీద గాజు కిటికీ
+2395068	2	87	307	285	a woman wearing a black helmet	నల్లని హెల్మెట్ ధరించిన స్త్రీ
+2383158	141	20	77	52	the cabinets are white	క్యాబినెట్‌లు తెల్లగా ఉంటాయి
+2384518	64	136	427	271	pancakes on a plate	ఒక ప్లేట్ మీద పాన్కేక్లు
+2370498	265	95	22	14	a blue baseball cap	నీలిరంగు బేస్ బాల్ టోపీ
+2350124	5	46	35	37	this is the sky	ఇది ఆకాశం
+2395456	0	329	372	169	large icy pond	పెద్ద మంచు చెరువు
+1592319	0	279	200	46	Young girl laying on the beach.	యువతి బీచ్‌లో పడుకుంది
 1159446	310	192	147	152	green and white direction sign above red sign	लाल चिह्न के ऊपर हरा और सफेद दिशा चिह्न
 2352271	225	359	51	44	white controller in hand	हाथ में सफेद नियंत्रक
 2329607	58	337	99	89	Skier on lower part of slope	स्लोप के निचला हिस्सा पर स्कायर
