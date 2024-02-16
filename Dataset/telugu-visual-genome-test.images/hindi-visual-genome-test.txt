@@ -98,18 +98,18 @@
 2363302	111	156	168	331	the man has glasses on	మనిషికి అద్దాలు ఉన్నాయి
 2395812	5	0	325	189	The roof is sheet metal	పైకప్పు షీట్ మెటల్
 2407036	178	94	129	75	this is the sky	ఇది ఆకాశం
-2374262	250	266	70	75	drain of the sink	नाली का निकास
-2345771	126	41	311	64	The sign that reads \Water\	पानी का चिह्न
-2360353	24	34	313	320	this is taken inside	यह अंदर ले जाया गया है
-2337165	186	8	160	322	a child on the tennis court	टेनिस कोर्ट पर एक बच्चा
-2363152	134	335	71	18	eyes of a cat	एक बिल्ली की आँखें
-2338500	141	94	187	195	elephant is grazing	हाथी चर रहा है
-2381317	159	47	255	262	man standing on motorcycle	मोटरसाइकिल पर खड़ा व्यक्ति
-2343764	7	72	117	142	this is a car	यह एक कार है
-2400005	238	76	146	172	a baby elephant.	एक बच्चा हाथी
-2368454	36	175	397	82	Animal on the beach.	समुद्र तट पर जानवर
-2411661	48	193	217	261	a motorcycle parked	एक मोटरसाइकिल पार्क किया गया
-2402248	93	84	221	189	an airplane in the sky	आकाश में हवाई जहाज
+2374262	250	266	70	75	drain of the sink	సింక్ యొక్క కాలువ
+2345771	126	41	311	64	The sign that reads \Water\	\నీరు\ అని రాసే గుర్తు
+2360353	24	34	313	320	this is taken inside	ఇది లోపలికి తీసుకోబడింది
+2337165	186	8	160	322	a child on the tennis court	టెన్నిస్ కోర్టులో ఒక పిల్లవాడు
+2363152	134	335	71	18	eyes of a cat	పిల్లి కళ్ళు
+2338500	141	94	187	195	elephant is grazing	ఏనుగు మేస్తోంది
+2381317	159	47	255	262	man standing on motorcycle	మోటారు సైకిల్‌పై నిలబడి ఉన్న వ్యక్తి
+2343764	7	72	117	142	this is a car	ఇది ఒక కారు
+2400005	238	76	146	172	a baby elephant.	ఒక పిల్ల ఏనుగు
+2368454	36	175	397	82	Animal on the beach.	బీచ్‌లో జంతువు
+2411661	48	193	217	261	a motorcycle parked	ఒక మోటార్ సైకిల్ ఆపి ఉంది
+2402248	93	84	221	189	an airplane in the sky	ఆకాశంలో ఒక విమానం
 2402046	48	144	254	254	The boat in the bay	खाड़ी में नाव
 2328480	126	286	138	110	WHITE CHAIR IN DINING AREA	डाइटिंग क्षेत्र में सफेद कुर्सी
 2326537	1	194	309	95	a person's extended hand	एक व्यक्ति का विस्तारित हाथ
