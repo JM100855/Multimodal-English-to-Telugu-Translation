@@ -170,39 +170,39 @@
 2350302	209	0	209	220	the bread is cut	రొట్టె కత్తిరించబడింది
 2396272	135	54	293	302	a woman sitting in a fancy lobby applying lipstick	ఫాన్సీ లాబీలో కూర్చున్న ఒక స్త్రీ లిప్‌స్టిక్‌ను రాస్తోంది
 286065	593	732	191	35	A person eating a orange.	నారింజ పండు తింటున్న వ్యక్తి.
-2327500	188	33	141	183	girl has brown hair	लड़की के भूरे बाल हैं ।
-2414782	328	71	145	302	parking meter for two vehicles	दो वाहनों के लिए पार्किंग मीटर
-2349596	165	71	115	132	Boy skateboarding on the pavement.	फुटपाथ पर लड़का स्केटबोर्डिंग करता है
-1592502	401	265	155	177	Water under the overpass	पुल के नीचे पानी
-2390549	7	124	342	112	herd of sheep walking	भेड़ों का झुंड चल रहा है
-2364815	36	11	145	87	A clear cloudless sky	एक साफ बादल रहित आकाश
-2397220	5	104	493	45	haze of mountains in distance	दूरी में पहाड़ों की धुंध
-2387948	217	100	275	186	a teddy bear	एक टेडी भालू
-2330814	29	7	315	128	half of a smashed potato	कते हुए आलू का आधा
-2368904	359	28	136	65	black truck with bed cover	बिस्तर कवर के साथ काले ट्रक
-2322946	231	149	57	35	doughnut has a sugar glaze	डोनट में चीनी का शीशा होता है
-2372485	98	43	101	453	Lighthouse has a short ladder for safety.	सुरक्षा के लिए एक छोटा सा लेडर है प्रकाश्घर पर।
-2374317	146	149	42	39	A clock in a building.	एक इमारत में घड़ी
-2397168	108	293	63	40	a purple and black sandal	एक बैंगनी और काला चप्पल
-2350240	254	233	51	155	red fire hydrant with white cap	सफेद टोपी वाला लाल आग हाइड्रेंट
-2402166	173	1	107	85	Clock in a tower	एक टावर में घड़ी
-2401707	183	155	225	90	Windsurfers in the water	पानी में विंडसर्फर
-2324024	150	64	152	42	White porcelain sink	सफेद चीनी मिट्टी के सिंक
-2319265	10	61	487	122	a silver gate	एक चाँदी द्वार
-2336826	3	11	319	473	baby laying under a blanket	कंबल के नीचे लेटा बच्चा
-2334767	180	190	36	51	item on the shelf	शेल्फ पर बस्तु
-2316736	138	310	38	143	child stands on sand	बच्चा रेत पर खड़ा है
-2390678	0	42	115	152	bouquet of flowers in a glass vase	फूलों का पुष्प गुच्छ कांच के फूलदान मे है
-2402858	29	23	409	349	a motorcycle with a sidecar	एक मोटरसाइकिल साइडकार के साथ
-1160112	686	697	87	67	kiwi on a plate	एक प्लेट पर कीवी
-2384944	0	1	331	498	a tiled room in a condemned building	एक निंदा भवन में एक टाइल वाला कमरा
-2318350	36	1	460	177	clouds in daytime sky	दिन के आकाश में बादल
-2365313	321	88	140	86	Black and white square sign.	काले और सफेद वर्ग चिन्ह
-2341298	385	120	41	105	Person standing on the pavement	फुटपाथ पर खड़ा व्यक्ति
-2414612	42	57	438	255	street running down residential block	आवासीय ब्लॉक के नीचे चलने वाली सड़क
-2331334	255	120	68	45	eye of a person	व्यक्ति की आंख
-2374888	341	241	67	82	Person wearing brown shoes.	व्यक्ति भूरे जूते पहनें
-2379657	146	85	130	235	a player in yellow	पीले रंग के कपडे मे खिलाडी
+2327500	188	33	141	183	girl has brown hair	అమ్మాయి గోధుమ రంగు జుట్టు కలిగి ఉంది
+2414782	328	71	145	302	parking meter for two vehicles	రెండు వాహనాలకు పార్కింగ్ మీటర్
+2349596	165	71	115	132	Boy skateboarding on the pavement.	పేవ్‌మెంట్‌పై స్కేట్‌బోర్డింగ్ చేస్తున్న బాలుడు
+1592502	401	265	155	177	Water under the overpass	ఓవర్‌పాస్ కింద నీరు
+2390549	7	124	342	112	herd of sheep walking	గొర్రెల మంద నడుస్తోంది
+2364815	36	11	145	87	A clear cloudless sky	మేఘాలు లేని స్పష్టమైన ఆకాశం
+2397220	5	104	493	45	haze of mountains in distance	దూరంలో పర్వతాల పొగమంచు
+2387948	217	100	275	186	a teddy bear	ఒక టెడ్డి బేర్
+2330814	29	7	315	128	half of a smashed potato	పగిలిన బంగాళాదుంపలో సగం
+2368904	359	28	136	65	black truck with bed cover	బెడ్ కవర్‌తో బ్లాక్ ట్రక్
+2322946	231	149	57	35	doughnut has a sugar glaze	డోనట్ చక్కెర గ్లేజ్ కలిగి ఉంటుంది
+2372485	98	43	101	453	Lighthouse has a short ladder for safety.	లైట్‌హౌస్‌లో భద్రత కోసం చిన్న నిచ్చెన ఉంది
+2374317	146	149	42	39	A clock in a building.	ఒక భవనంలో గడియారం
+2397168	108	293	63	40	a purple and black sandal	ఒక ఊదా మరియు నలుపు చెప్పు
+2350240	254	233	51	155	red fire hydrant with white cap	తెలుపు టోపీతో ఎరుపు అగ్ని హైడ్రాంట్
+2402166	173	1	107	85	Clock in a tower	టవర్‌లోని గడియారం
+2401707	183	155	225	90	Windsurfers in the water	నీటిలో విండ్‌సర్ఫర్‌లు
+2324024	150	64	152	42	White porcelain sink	వైట్ పింగాణీ సింక్
+2319265	10	61	487	122	a silver gate	ఒక వెండి ద్వారం
+2336826	3	11	319	473	baby laying under a blanket	శిశువు దుప్పటి కింద పడుకుంది
+2334767	180	190	36	51	item on the shelf	షెల్ఫ్‌లోని అంశం
+2316736	138	310	38	143	child stands on sand	పిల్లవాడు ఇసుక మీద నిలబడి ఉన్నాడు
+2390678	0	42	115	152	bouquet of flowers in a glass vase	గాజు కుండీలో పూల గుత్తి
+2402858	29	23	409	349	a motorcycle with a sidecar	సైడ్‌కార్‌తో కూడిన మోటార్‌సైకిల్
+1160112	686	697	87	67	kiwi on a plate	ఒక ప్లేట్ మీద కివి
+2384944	0	1	331	498	a tiled room in a condemned building	ఖండించబడిన భవనంలో టైల్ వేసిన గది
+2318350	36	1	460	177	clouds in daytime sky	పగటిపూట ఆకాశంలో మేఘాలు
+2365313	321	88	140	86	Black and white square sign.	నలుపు మరియు తెలుపు చదరపు గుర్తు.
+2341298	385	120	41	105	Person standing on the pavement	పేవ్‌మెంట్‌పై నిలబడి ఉన్న వ్యక్తి
+2414612	42	57	438	255	street running down residential block	రెసిడెన్షియల్ బ్లాక్ డౌన్ నడుస్తున్న వీధి
+2331334	255	120	68	45	eye of a person	ఒక వ్యక్తి యొక్క కన్ను
+2374888	341	241	67	82	Person wearing brown shoes.	గోధుమ రంగు బూట్లు ధరించిన వ్యక్తి
+2379657	146	85	130	235	a player in yellow	పసుపు రంగులో ఉన్న ఆటగాడు
 2388973	149	300	17	17	the plate is white	प्लेट सफेद है
 2387460	205	177	118	30	a green street sign	एक हरे रंग की सड़क का चिन्ह
 2382697	4	130	229	155	gold living room couch	सोने रन्ग लिविंग रूम सोफा
