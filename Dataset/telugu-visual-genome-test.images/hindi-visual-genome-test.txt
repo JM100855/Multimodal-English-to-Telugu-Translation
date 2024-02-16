@@ -152,24 +152,24 @@
 2387135	45	15	452	225	Large white airplane on runway	రన్‌వేపై తెల్లటి పెద్ద విమానం
 2393432	119	240	9	7	the camera	కెమెరా
 2337617	39	1	108	160	poster in silver frame	వెండి ఫ్రేమ్‌లో పోస్టర్
-2337609	400	231	49	27	large rock in pile	ढेर में बड़ी चट्टान
-2410419	63	202	435	249	a red and black motorcycle	लाल और काला मोटरसाइकिल
-2329103	3	5	28	35	person at ball game	गेंद के खेल में आदमी
-2385154	53	25	398	265	Three dogs are standing in bench.	तीन कुत्ते बेंच पे खड़े हैं ।
-2406893	79	176	160	179	this is a horse	यह एक घोड़ा है
-2416009	149	107	257	199	the train is blue and yellow	ट्रेन नीले और पीले रंग की है
-2365370	12	90	442	205	two elephants are greeting each other	दो हाथी एक - दूसरे की शुभकामना कर रहे हैं ।
-2326606	24	383	49	36	A food worker is behind the counter.	एक खाद्य कामगार काउंटर के पीछे है
-2317564	230	116	25	42	A cell phone next to a man's ear	एक आदमी के कान के बगल में एक सेल फोन
-2343115	10	63	489	302	this is a large ski slope	यह एक विशाल स्की ढलान है
-2394990	184	29	158	95	green and white street sign	हरी और सफेद चिह्न
-2366945	93	19	367	311	a dog in the water	पानी में एक कुत्ता
-2335620	93	30	299	312	A child eating a pizza	एक बच्चा पिज़्ज़ा खाता बच्चा
-2398253	269	247	85	25	diamond bracelet on wrist	कलाई पर हीरे का कंगन
-2335803	261	444	48	21	Sign with an arrow pointing right	एक तीर की ओर इशारा करते अधिकार के साथ साइन
-2350302	209	0	209	220	the bread is cut	रोटी कटी है
-2396272	135	54	293	302	a woman sitting in a fancy lobby applying lipstick	लिपस्टिक लगाने वाली फैंसी लॉबी में बैठी एक महिला
-286065	593	732	191	35	A person eating a orange.	एक व्यक्ति संतरा खा रहा है
+2337609	400	231	49	27	large rock in pile	కుప్పలో పెద్ద రాయి
+2410419	63	202	435	249	a red and black motorcycle	ఎరుపు మరియు నలుపు మోటార్ సైకిల్
+2329103	3	5	28	35	person at ball game	బంతి ఆటలో వ్యక్తి
+2385154	53	25	398	265	Three dogs are standing in bench.	మూడు కుక్కలు బెంచ్‌లో నిలబడి ఉన్నాయి
+2406893	79	176	160	179	this is a horse	ఇది ఒక గుర్రం
+2416009	149	107	257	199	the train is blue and yellow	రైలు నీలం మరియు పసుపు
+2365370	12	90	442	205	two elephants are greeting each other	రెండు ఏనుగులు పరస్పరం పలకరించుకుంటున్నాయి
+2326606	24	383	49	36	A food worker is behind the counter.	కౌంటర్ వెనుక ఒక ఆహార కార్మికుడు ఉన్నాడు.
+2317564	230	116	25	42	A cell phone next to a man's ear	ఒక వ్యక్తి చెవి పక్కన సెల్ ఫోన్
+2343115	10	63	489	302	this is a large ski slope	ఇది పెద్ద స్కీ వాలు
+2394990	184	29	158	95	green and white street sign	ఆకుపచ్చ మరియు తెలుపు వీధి గుర్తు
+2366945	93	19	367	311	a dog in the water	నీటిలో కుక్క
+2335620	93	30	299	312	A child eating a pizza	పిజ్జా తింటున్న పిల్లవాడు
+2398253	269	247	85	25	diamond bracelet on wrist	మణికట్టు మీద డైమండ్ బ్రాస్లెట్
+2335803	261	444	48	21	Sign with an arrow pointing right	కుడివైపు బాణంతో సంతకం చేయండి
+2350302	209	0	209	220	the bread is cut	రొట్టె కత్తిరించబడింది
+2396272	135	54	293	302	a woman sitting in a fancy lobby applying lipstick	ఫాన్సీ లాబీలో కూర్చున్న ఒక స్త్రీ లిప్‌స్టిక్‌ను రాస్తోంది
+286065	593	732	191	35	A person eating a orange.	నారింజ పండు తింటున్న వ్యక్తి.
 2327500	188	33	141	183	girl has brown hair	लड़की के भूरे बाल हैं ।
 2414782	328	71	145	302	parking meter for two vehicles	दो वाहनों के लिए पार्किंग मीटर
 2349596	165	71	115	132	Boy skateboarding on the pavement.	फुटपाथ पर लड़का स्केटबोर्डिंग करता है
