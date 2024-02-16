@@ -316,21 +316,21 @@
 2394048	462	271	36	62	A dog food bowl	ఒక కుక్క ఆహార గిన్నె
 2401345	121	157	116	246	fire hydrant is red	అగ్ని హైడ్రాంట్ ఎరుపు
 2329516	227	3	97	120	a half full glass of beer	సగం పూర్తి గ్లాసు బీర్
-2373929	264	242	60	39	part of a splash	एक दिखावा का हिस्सा
-2408154	135	12	355	262	a boy on plastic sheep	प्लास्टिक भेड़ पर एक लड़का
-2324583	275	175	52	30	the engine of a plane	हवाई जहाज का इंजन
-2355273	149	66	252	106	several kites in the air	हवा में कई पतंग
-2333874	79	369	38	35	cupcake on the table	मेज पर कप केक
-2402015	69	49	310	266	baby with frosting on face	चेहरे पर ठंढक के साथ बच्चा
-2375407	125	10	93	68	white spot on the horse's head	घोड़े के सिर पर सफेद धब्बा
-4585	501	206	185	85	Sheep eating the grass	घास खाने वाली भेड़
-2387054	185	320	13	129	chain on hydrant	हाइड्रेंट पर चेन
-2362087	204	18	170	307	two men wearing white shirts	सफेद शर्ट पहने दो आदमी
-2394337	200	159	57	32	The person is wearing a hat.	व्यक्ति ने टोपी पहना हुआ है
-2364177	0	0	497	184	a blue cloudy sky	एक नीला बादल आकाश
-2374010	6	27	227	434	white colored male mannequin	सफेद रंग का पुरुष पुतला
-1724	120	57	30	32	car on highway in front of car	कार के सामने हाईवे पर कार
-3339	294	258	180	148	white car parked along the street	सड़क के साथ सफेद कार पार्क
+2373929	264	242	60	39	part of a splash	స్ప్లాష్ యొక్క భాగం
+2408154	135	12	355	262	a boy on plastic sheep	ప్లాస్టిక్ గొర్రెలపై ఒక బాలుడు
+2324583	275	175	52	30	the engine of a plane	ఒక విమానం యొక్క ఇంజిన్
+2355273	149	66	252	106	several kites in the air	గాలిలో అనేక గాలిపటాలు
+2333874	79	369	38	35	cupcake on the table	టేబుల్ మీద కప్ కేక్
+2402015	69	49	310	266	baby with frosting on face	ముఖం మీద మంచుతో ఉన్న శిశువు
+2375407	125	10	93	68	white spot on the horse's head	గుర్రం తలపై తెల్లటి మచ్చ
+4585	501	206	185	85	Sheep eating the grass	గొర్రెలు గడ్డిని తింటున్నాయి
+2387054	185	320	13	129	chain on hydrant	హైడ్రాంట్ మీద గొలుసు
+2362087	204	18	170	307	two men wearing white shirts	తెల్ల చొక్కాలు ధరించిన ఇద్దరు పురుషులు
+2394337	200	159	57	32	The person is wearing a hat.	వ్యక్తి టోపీ ధరించి ఉన్నాడు.
+2364177	0	0	497	184	a blue cloudy sky	నీలం మేఘావృతమైన ఆకాశం
+2374010	6	27	227	434	white colored male mannequin	తెలుపు రంగు మగ బొమ్మ
+1724	120	57	30	32	car on highway in front of car	కారు ముందు హైవే మీద కారు
+3339	294	258	180	148	white car parked along the street	తెల్లటి కారు వీధిలో ఆపి ఉంది
 2394658	13	119	267	116	The colorful umbrella above the person's head.	व्यक्ति के सिर के ऊपर रंगीन छतरी
 2371517	24	149	214	105	A book on the bed	बिस्तर पर एक पुस्तक
 2389359	125	4	76	123	man in mirror with camera	कैमरा के साथ दर्पण
