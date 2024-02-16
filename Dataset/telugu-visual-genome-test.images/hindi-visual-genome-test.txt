@@ -301,21 +301,21 @@
 2401217	222	178	36	33	The two street signs on the pole in the corner.	మూలలో స్తంభం మీద రెండు వీధి గుర్తులు
 2388135	196	86	128	185	young man suspended in air	యువకుడు గాలిలో సస్పెండ్ అయ్యాడు
 2380087	257	107	111	40	Air Canada on the plane.	విమానంలో ఎయిర్ కెనడా.
-2353342	269	40	50	50	A blue and green surfing kite	एक नीला और हरा सर्फिंग पतंग
-2362637	2	72	496	256	a guy holding a surfboard	एक आदमी एक सर्फबोर्ड पकड़े हुए
-2317455	172	154	246	194	a truck on the road	सड़क पर एक ट्रक
-2393184	90	51	176	74	this is an umbrella	यह एक छतरी है
-2393024	143	94	92	192	a man riding a skateboard.	एक आदमी एक स्केटबोर्ड की सवारी करता है।
-2349364	7	67	355	130	the cows are eating	गायें खा रही हैं
-2335670	137	175	68	151	the pitcher on the mound	टीले पर घड़ा
-150330	168	353	260	342	people exiting large vehicle	बड़े वाहन से बाहर निकले लोग
-2416320	328	38	73	162	woman wearing black tank top	काले टैंक टॉप पहने हुई महिला
-2395494	51	102	90	91	the red octagon sign	लाल अष्टांग चिह्न
-2325328	21	51	470	311	Cake with a bear on it	एक भालू के साथ केक
-2332093	292	403	19	28	part of a shade	छाँव का हिस्सा
-2394048	462	271	36	62	A dog food bowl	एक कुत्ते का भोजन कटोरा
-2401345	121	157	116	246	fire hydrant is red	आग हाइड्रेंट लाल है
-2329516	227	3	97	120	a half full glass of beer	बीयर का आधा भरा गिलास
+2353342	269	40	50	50	A blue and green surfing kite	నీలం మరియు ఆకుపచ్చ సర్ఫింగ్ గాలిపటం
+2362637	2	72	496	256	a guy holding a surfboard	సర్ఫ్‌బోర్డ్‌ను పట్టుకున్న వ్యక్తి
+2317455	172	154	246	194	a truck on the road	రోడ్డు మీద ఒక ట్రక్కు
+2393184	90	51	176	74	this is an umbrella	ఇది ఒక గొడుగు
+2393024	143	94	92	192	a man riding a skateboard.	స్కేట్ బోర్డ్ స్వారీ చేస్తున్న వ్యక్తి.
+2349364	7	67	355	130	the cows are eating	ఆవులు తింటున్నాయి
+2335670	137	175	68	151	the pitcher on the mound	దిబ్బ మీద కాడ
+150330	168	353	260	342	people exiting large vehicle	పెద్ద వాహనం నుండి బయటకు వస్తున్న వ్యక్తులు
+2416320	328	38	73	162	woman wearing black tank top	నల్లటి ట్యాంక్ టాప్ ధరించిన స్త్రీ
+2395494	51	102	90	91	the red octagon sign	ఎరుపు అష్టభుజి చిహ్నం
+2325328	21	51	470	311	Cake with a bear on it	దానిపై ఎలుగుబంటి ఉన్న కేక్
+2332093	292	403	19	28	part of a shade	నీడలో భాగం
+2394048	462	271	36	62	A dog food bowl	ఒక కుక్క ఆహార గిన్నె
+2401345	121	157	116	246	fire hydrant is red	అగ్ని హైడ్రాంట్ ఎరుపు
+2329516	227	3	97	120	a half full glass of beer	సగం పూర్తి గ్లాసు బీర్
 2373929	264	242	60	39	part of a splash	एक दिखावा का हिस्सा
 2408154	135	12	355	262	a boy on plastic sheep	प्लास्टिक भेड़ पर एक लड़का
 2324583	275	175	52	30	the engine of a plane	हवाई जहाज का इंजन
