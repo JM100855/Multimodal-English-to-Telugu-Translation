@@ -449,54 +449,54 @@
 2404755	313	48	14	22	top of building	భవనం పైన
 2359495	17	157	83	120	The vest the man is wearing.	మనిషి ధరించిన చొక్కా
 2354852	46	192	119	87	the wheels on a bus	బస్సులో చక్రాలు
-2397460	322	98	155	57	The beach is visible.	बीच दिख रहा है।
-2415653	36	41	355	327	pedicab waiting on the curb	pedicab कर्ब पर इंतज़ार कर रहा है
-2372849	1	78	122	133	The back of a cat's head.	बिल्ली के सिर का पिछला भाग।
-2356964	67	205	129	136	Bright green field in the park.	पार्क में हरा मैदान
-2376507	92	92	228	180	dirty sheep laying down	गंदी भेड़ें
-2339775	322	250	175	94	white toilet tank in bathroom	बाथरूम में सफेद शौचालय टैंक
-2354973	132	128	189	235	this is a cat	यह बिल्ली है
-2362277	148	30	175	276	man holding white frisbee	सफेद फ़्रिस्बी पकड़े आदमी
-2404216	0	203	205	117	an old folded newspaper	एक पुराना मुड़ा हुआअखबार
-2363835	88	91	58	94	A black neck tie	एक काली गर्दन टाई
-2389134	4	6	492	322	a herd of elephants on a beach	एक तट पर हाथियों का झुंड
-2405060	130	150	212	101	two decorative pillows on bed	बिस्तर पर दो सजावटी तकिए
-1159288	362	221	41	96	Person in yellow and black ski gear	पीले और काले स्की गियर में व्यक्ति
-2363803	286	128	79	336	man on skate board	बोर्ड पर मनुष्य
-2359369	128	210	29	20	The hat the kid is wearing.	टोपी बच्चा पहन रहा है .
-2372810	152	121	38	41	an orange balloon	एक नारंगी गुब्बारा
-2363251	320	219	47	43	a large floor fan	एक बड़ी मंजिल प्रशंसक
-2408711	170	298	107	64	bowl of tortilla chips on table	टॉर्टिला चिप्स से भरा कटोरा
-1592555	484	490	29	12	key on the keyboard	कुंजीपटल पर कुंजी
-2337604	62	84	178	241	a person leaning forward	एक व्यक्ति आगे बढ़ना
-2411337	56	6	161	70	kite in the sky	आकाश में पतंग
-2357745	4	78	217	217	A bus is driving by	एक बस द्वारा चला रहा है
-1592859	188	506	42	80	a man with his hand covering his face	एक आदमी अपने चेहरे को अपने हाथो से ढकता है
-2386615	257	216	123	54	Wooden bench on ground	मैदान पर वूडन बेंच
-2407859	137	218	90	94	Person skiing down a hill	एक पहाड़ी नीचे स्कीलिंग
-2376079	86	211	267	73	Dolphin fin sticking out of the water	डॉल्फिन पंख पानी से बाहर चिपके हुए
-150514	215	300	109	46	Man wearing black sunglasses on face.	मनुष्य के चेहरे पर काले धूप का चश्मा पहना है
-2380125	223	117	22	22	clock on front of building	इमारत के सामने घड़ी
-2395690	83	97	140	235	Woman holding a black umbrella.	एक काले छतरी पकड़े हुए महिला।
-2362448	295	221	45	81	aprt of a grass	घास का हिस्सा
-2327221	297	308	44	41	par tof a floor	एक मंजिल का हिस्सा
-2332271	182	292	60	41	the front wheel on a car	एक कार पर सामने पहिया
-2370505	246	290	30	32	edge of a drum	ढोल का किनारा
-2342703	4	3	494	365	people at a restaurant with a table of pizzas	पिज्जा की मेज के साथ एक रेस्तरां में लोग
-508	552	352	52	35	soap is in the dish	साबुन पकवान में है
-2411815	169	306	105	120	A WHITE BATHROOM SINK	एक सफेद बाथरूम सिंक
-2351250	31	206	77	214	tall green young tree in a forest	जंगल में लंबा हरा युवा पेड़
-2402351	166	21	253	355	a cute dog holding a pink round toy in his mouth	एक प्यारा कुत्ता उसके मुंह में एक गुलाबी दौर खिलौना पकड़े हुए
-2327212	47	68	107	158	White shower curtain in bathroom.	बाथरूम में सफेद पर्दा
-2355964	368	205	43	41	Eye of small white dog	छोटे सफेद कुत्ते की आँखें
-2348696	354	112	76	106	Woman in black top next to man in shorts	शॉर्ट्स में आदमी के बगल में काले शीर्ष में महिला
-2339121	0	255	457	75	Four train rails are on the ground.	चार रेलगाड़ी जमीन पर हैं ।
-2373575	196	198	47	23	this is a sheep	यह एक भेड़ है
-2372340	311	217	20	31	the shirt is pink	कुर्ता गुलाबी है
-2323280	6	0	482	74	a whole bunch of CocaCola umbrellas	कोकाकोला छाता का एक पूरा गुच्छा
-2410199	183	251	146	109	the sink is white	सिंक सफेद है
-2331173	252	150	158	86	a bus in a crowd	एक भीड़ में बस
-2365187	138	61	203	219	giraffes standing in a zoo	जिराफ एक चिड़ियाघर में खड़ा है
+2397460	322	98	155	57	The beach is visible.	బీచ్ కనిపిస్తుంది
+2415653	36	41	355	327	pedicab waiting on the curb	pedicab పెడికాబ్ కాలిబాటపై వేచి ఉంది
+2372849	1	78	122	133	The back of a cat's head.	పిల్లి తల వెనుక భాగం
+2356964	67	205	129	136	Bright green field in the park.	పార్కులో ప్రకాశవంతమైన పచ్చటి మైదానం
+2376507	92	92	228	180	dirty sheep laying down	మురికి గొర్రెలు పడుతున్నాయి
+2339775	322	250	175	94	white toilet tank in bathroom	బాత్రూంలో వైట్ టాయిలెట్ ట్యాంక్
+2354973	132	128	189	235	this is a cat	ఇది ఒక పిల్లి
+2362277	148	30	175	276	man holding white frisbee	తెల్లటి ఫ్రిస్బీ పట్టుకున్న వ్యక్తి
+2404216	0	203	205	117	an old folded newspaper	పాత మడతపెట్టిన వార్తాపత్రిక
+2363835	88	91	58	94	A black neck tie	ఒక నల్ల మెడ టై
+2389134	4	6	492	322	a herd of elephants on a beach	ఒక బీచ్‌లో ఏనుగుల గుంపు
+2405060	130	150	212	101	two decorative pillows on bed	మంచం మీద రెండు అలంకార దిండ్లు
+1159288	362	221	41	96	Person in yellow and black ski gear	పసుపు మరియు నలుపు స్కీ గేర్‌లో ఉన్న వ్యక్తి
+2363803	286	128	79	336	man on skate board	స్కేట్ బోర్డు మీద మనిషి
+2359369	128	210	29	20	The hat the kid is wearing.	పిల్లవాడు ధరించిన టోపీ.
+2372810	152	121	38	41	an orange balloon	ఒక నారింజ బెలూన్
+2363251	320	219	47	43	a large floor fan	ఒక పెద్ద ఫ్లోర్ ఫ్యాన్
+2408711	170	298	107	64	bowl of tortilla chips on table	టేబుల్ మీద టోర్టిల్లా చిప్స్ గిన్నె
+1592555	484	490	29	12	key on the keyboard	కీబోర్డ్ మీద కీ
+2337604	62	84	178	241	a person leaning forward	ముందుకు వంగి ఉన్న వ్యక్తి
+2411337	56	6	161	70	kite in the sky	ఆకాశంలో గాలిపటం
+2357745	4	78	217	217	A bus is driving by	ఒక బస్సు నడుస్తోంది
+1592859	188	506	42	80	a man with his hand covering his face	ఒక వ్యక్తి తన ముఖాన్ని కప్పి ఉంచాడు
+2386615	257	216	123	54	Wooden bench on ground	నేలపై చెక్క బెంచ్
+2407859	137	218	90	94	Person skiing down a hill	ఒక వ్యక్తి కొండపైకి స్కీయింగ్ చేస్తున్నాడు
+2376079	86	211	267	73	Dolphin fin sticking out of the water	డాల్ఫిన్ రెక్క నీటి నుండి బయటకు వచ్చింది
+150514	215	300	109	46	Man wearing black sunglasses on face.	ముఖానికి నల్లని సన్ గ్లాసెస్ ధరించిన వ్యక్తి
+2380125	223	117	22	22	clock on front of building	భవనం ముందు గడియారం
+2395690	83	97	140	235	Woman holding a black umbrella.	నల్లని గొడుగు పట్టుకున్న స్త్రీ
+2362448	295	221	45	81	a part of a grass	ఒక గడ్డి భాగం
+2327221	297	308	44	41	part of a floor	ఒక అంతస్తులో భాగం
+2332271	182	292	60	41	the front wheel on a car	కారులో ముందు చక్రం
+2370505	246	290	30	32	edge of a drum	డ్రమ్ యొక్క అంచు
+2342703	4	3	494	365	people at a restaurant with a table of pizzas	పిజ్జాల టేబుల్‌తో రెస్టారెంట్‌లోని వ్యక్తులు
+508	552	352	52	35	soap is in the dish	సబ్బు డిష్‌లో ఉంది
+2411815	169	306	105	120	A WHITE BATHROOM SINK	ఒక తెల్ల బాత్రూమ్ సింక్
+2351250	31	206	77	214	tall green young tree in a forest	ఒక అడవిలో పొడవైన పచ్చని యువ చెట్టు
+2402351	166	21	253	355	a cute dog holding a pink round toy in his mouth	ఒక అందమైన కుక్క తన నోటిలో గులాబీ గుండ్రని బొమ్మను పట్టుకుంది
+2327212	47	68	107	158	White shower curtain in bathroom.	బాత్రూంలో వైట్ షవర్ కర్టెన్
+2355964	368	205	43	41	Eye of small white dog	చిన్న తెల్ల కుక్క కన్ను
+2348696	354	112	76	106	Woman in black top next to man in shorts	షార్ట్‌లో ఉన్న వ్యక్తి పక్కన నల్లటి టాప్‌లో ఉన్న స్త్రీ
+2339121	0	255	457	75	Four train rails are on the ground.	నాలుగు రైలు పట్టాలు నేలపై ఉన్నాయి
+2373575	196	198	47	23	this is a sheep	ఇది ఒక గొర్రె
+2372340	311	217	20	31	the shirt is pink	కుర్తా గులాబీ ఉంది
+2323280	6	0	482	74	a whole bunch of CocaCola umbrellas	మొత్తం కోకాకోలా గొడుగులు
+2410199	183	251	146	109	the sink is white	సింక్ తెల్లగా ఉంటుంది
+2331173	252	150	158	86	a bus in a crowd	గుంపులో ఒక బస్సు
+2365187	138	61	203	219	giraffes standing in a zoo	జిరాఫీలు జూలో నిలబడి ఉన్నాయి
 2383263	76	20	110	34	this is the sky	ఇది ఆకాశం
 2363780	190	70	255	203	a sandwich on a white plate	తెల్లటి ప్లేట్‌లో శాండ్‌విచ్
 2328328	66	172	111	157	person on a motorcycle	మోటార్ సైకిల్ పై ఉన్న వ్యక్తి
