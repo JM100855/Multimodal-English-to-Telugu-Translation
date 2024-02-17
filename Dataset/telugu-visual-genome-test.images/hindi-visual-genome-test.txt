@@ -400,24 +400,24 @@
 2412327	116	325	129	53	a patch of gravel	కంకర పాచ్
 2370984	168	35	128	131	a wood framed print	ఒక చెక్క ఫ్రేమ్డ్ ప్రింట్
 1184	513	5	280	212	vintage posters hanging on wall	పాతకాలపు పోస్టర్లు గోడపై వేలాడుతున్నాయి
-2354029	57	27	369	174	hot dog bun with fillings	हॉट डॉग बन्स फिलिंग के साथ
-2328297	6	14	477	421	Photo taken during the day	दिन के दौरान लिया गया फोटो
-2343027	10	5	475	121	blue sky with irregular shaped clouds	अनियमित आकार बादलों के साथ नीले आकाश
-2397927	108	112	389	104	a row of blue beach parasols	नीले समुद्र तट परसोल्स की एक पंक्ति
-2327891	255	8	101	121	black birds are flying	काले पक्षी उड़ रहे हैं
-2334793	362	212	22	17	light bulb in the red bucket	लाल बाल्टी में प्रकाश बल्ब
-2394434	237	86	35	31	Left ear of adult cow	वयस्क गाय का बायाँ कान
-2321501	8	0	491	117	blue of daytime sky	दिन के आसमान का नीला
-2372702	113	6	201	333	a wine glass on the table	मेज पर एक शराब का गिलास
-2375955	190	124	82	164	A bird on a tree	एक पेड़ पर एक चिड़िया
-2337946	55	22	137	246	large white teddy bear	बड़े सफेद टेडी बियर
-2357624	104	168	77	117	catcher kneeling in the dirt	गंदगी में घुटने टेकते हुए
-2342548	255	92	98	30	glasses on woman's face	स्त्री के चेहरे पर चश्मा
-2368062	226	154	55	90	Two silver mardigras necklaces	दो चांदी के मार्डीग्रास हार
-2401097	25	55	414	304	Two people skiing.	दो लोग स्कीइंग करते हैं।
-2397858	357	160	30	16	a pair of white and orange goggles	सफेद और नारंगी चस्मे का एक जोड़ा
-2316314	30	11	124	312	green light rail	हरी बत्ती रेल
-2393673	194	175	20	22	back of a horse	एक घोड़े की पीठ
+2354029	57	27	369	174	hot dog bun with fillings	పూరకాలతో హాట్ డాగ్ బన్ను
+2328297	6	14	477	421	Photo taken during the day	పగటిపూట తీసిన ఫోటో
+2343027	10	5	475	121	blue sky with irregular shaped clouds	క్రమరహిత ఆకారపు మేఘాలతో నీలి ఆకాశం
+2397927	108	112	389	104	a row of blue beach parasols నీలం బీచ్ పారాసోల్‌ల వరుస
+2327891	255	8	101	121	black birds are flying	నల్ల పక్షులు ఎగురుతున్నాయి
+2334793	362	212	22	17	light bulb in the red bucket	ఎరుపు బకెట్‌లో లైట్ బల్బ్
+2394434	237	86	35	31	Left ear of adult cow	వయోజన ఆవు యొక్క ఎడమ చెవి
+2321501	8	0	491	117	blue of daytime sky	పగటిపూట ఆకాశం నీలం
+2372702	113	6	201	333	a wine glass on the table	టేబుల్ మీద ఒక వైన్ గ్లాస్
+2375955	190	124	82	164	A bird on a tree	చెట్టు మీద పక్షి
+2337946	55	22	137	246	large white teddy bear	పెద్ద తెల్లటి టెడ్డి బేర్
+2357624	104	168	77	117	catcher kneeling in the dirt	మురికిలో మోకరిల్లుతున్న క్యాచర్
+2342548	255	92	98	30	glasses on woman's face	స్త్రీ ముఖం మీద అద్దాలు
+2368062	226	154	55	90	Two silver mardigras necklaces	రెండు వెండి మార్డిగ్రాస్ హారాలు
+2401097	25	55	414	304	Two people skiing.	ఇద్దరు వ్యక్తులు స్కీయింగ్ చేస్తున్నారు.
+2397858	357	160	30	16	a pair of white and orange goggles	ఒక జత తెలుపు మరియు నారింజ రంగు అద్దాలు
+2316314	30	11	124	312	green light rail	గ్రీన్ లైట్ రైలు
+2393673	194	175	20	22	back of a horse	ఒక గుర్రం వెనుక
 2319357	84	114	415	259	The dog is on a surfboard.	कुत्ता सर्फ़बोर्ड पर है
 2353929	1	199	115	107	the toilet seat is down	टॉयलेट सीट नीचे है
 2373659	15	17	471	307	American soldiers are stationed in Kabul.	अमेरिकी सैनिक काबुल में तैनात हैं ।
