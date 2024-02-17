@@ -348,58 +348,58 @@
 2367823	442	239	54	26	sitting bench with stand	స్టాండ్ తో కూర్చున్న బెంచ్
 2322759	16	22	425	58	This is an airplane	ఇదొక విమానం
 2328490	220	16	167	182	planes in formation	ఏర్పాటులో విమానాలు
-2415888	148	20	209	143	a plate of corn bread	मकई की रोटी की थाली
-2405040	52	150	73	57	Two black and gold clock faces	दो काले और सोने की घड़ी चेहरे
-2415376	365	190	10	21	black letter on sign	चिह्न पर काला अक्षर
+2415888	148	20	209	143	a plate of corn bread	మొక్కజొన్న రొట్టె ఒక ప్లేట్
+2405040	52	150	73	57	Two black and gold clock faces	రెండు నలుపు మరియు బంగారు గడియార ముఖాలు
+2415376	365	190	10	21	black letter on sign	గుర్తుపై నల్ల అక్షరం
 2326922	398	21	93	120	this is the sky	ఇది ఆకాశం
-2347236	236	248	17	28	part of a hokker	हॉकर का हिस्सा
-2349443	132	102	173	51	two standard pillows with flowers	फूलों के साथ दो मानक तकिए
-2406981	279	202	82	78	woman in blue playing tennis	नीले खेल टेनिस में महिला
-2346390	168	52	118	132	the head of a man	एक आदमी का सिर
-285779	144	552	181	253	stand of the person	व्यक्ति का खड़ा होना
-2339774	376	80	98	235	A man that is running.	एक आदमी जो दौड़ रहा है।
-2387406	7	7	490	257	two bears playing in the water	पानी में खेल रहे दो भालू
-2365369	98	121	205	324	A man walking in the snow	बर्फ में चलते हुए एक आदमी
-2376133	91	57	172	217	man standing at fridge	फ्रिज में खड़ा आदमी
-2397398	115	224	184	165	A red tanker truck	लाल टैंकर ट्रक
-2326378	126	22	200	316	man shearing a sheep	आदमी एक भेड़ की खाल उतार रहा है
-2315884	123	156	267	173	a man lying on the sand	एक आदमी रेत पर लेटा हुआ है
-2389976	11	29	428	338	tortilla covered with food	भोजन से ढका हुआ तार्टिला
-2361681	111	123	340	186	thee are ships on the sea	समुद्र पर जहाज हैं
-2357242	18	6	450	310	Motorcycles on the grass.	घास पर मोटरसाइकिल
-2369820	16	65	319	257	men playing baseball	बेसबॉल खेल रहे पुरुष
-2332826	153	215	15	15	he is wearing a watch	वह एक घड़ी पहना हुआ है
-2382624	45	35	367	330	a pickup truck on display	पिक - अप ट्रक प्रदर्शन पर
-2344746	110	18	245	258	Train engine parked in the railway station	ट्रेन इंजन रेलवे स्टेशन में खड़ा है
-1434	605	416	19	57	a pole color black	एक ध्रुव का रंग काला
-2342978	190	352	164	121	The surfboard is lying on the beach.	सर्फबोर्ड समुद्र तट पर है।
-2403009	160	222	165	126	A large castle building on a hill.	एक पहाड़ी पर एक विशाल महल का निर्माण
-2329517	9	110	486	220	A serving of food on a white plate	सफेद प्लेट पर खाद्य पदार्थों की सेवा
-2379013	222	125	89	76	Horse racing down a steep sloping hill	घोड़ा एक ऊँची पहाड़ी से नीचे की ओर भाग रहा है
-2408980	131	289	40	32	These are white rocks	ये सफेद पत्थर हैं ।
-2353560	1	3	497	191	A clear blue sky.	एक साफ नीला आकाश
-2315795	372	21	98	227	player #8 running for first base with helmet on	खिलाड़ी # 8 हेल्मेट के साथ पहले आधार के लिए चल रहा है
-2387030	119	142	70	124	A yellow fire hydrant	एक पीली अग्नि हाइड्रांट
-2326772	13	214	361	174	these are two shoes	ये दो जूते हैं
-2320430	199	65	132	70	white plane in sky	आकाश में सफेद हवाई जहाज
-2366893	47	73	390	120	a plane on the runway	रनवे पर एक विमान
-2322660	40	136	135	23	a flock of birds in a field	एक खेत में पक्षियों का झुंड
-2363405	47	10	424	321	the person is using a clay oven	व्यक्ति मिट्टी ओवन का उपयोग कर रहा है
-2328644	17	117	473	365	Men looking at a motorcycle	मोटरसाइकिल पर देख रहे पुरुष
-2371112	345	27	151	183	A bus is moving through the city	शहर के बीच से एक बस चल रही है ।
-2387614	0	85	410	168	flock of turkeys in tall grass	लंबी घास में टर्की के झुंड
-2316607	214	110	58	107	a bird on a rock wall	एक चट्टान पर एक चिड़िया
-2391547	353	78	90	223	this is a suitcase	यह एक सूटकेस है
-2324076	148	88	270	228	White clydesdale horse	सफेद clydesdale घोड़ा
-2350968	87	112	238	185	A woman sits on a bench.	एक महिला एक बेंच पर बैठी है
-2370261	265	103	121	138	this is a lady	यह एक महिला है
-2328003	324	128	165	155	a desk chair	एक मेज कुर्सी
-2341737	0	152	488	122	area for cows to roam	गायों घूमने के लिए के लिए क्षेत्र
-286002	397	310	332	247	plane on the runaway	रनवे पर विमान
-2333074	341	142	82	77	elephant walking in dirt	हाथी गंदगी में चल रहा है
-2412327	116	325	129	53	a patch of gravel	कंकड़ का ढेर
-2370984	168	35	128	131	a wood framed print	लकड़ी के बने मुद्रित प्रिंट
-1184	513	5	280	212	vintage posters hanging on wall	दीवार पर विन्टेज पोस्टर लगाते हैं
+2347236	236	248	17	28	part of a hokker	హాకర్ యొక్క భాగం
+2349443	132	102	173	51	two standard pillows with flowers	పువ్వులతో రెండు ప్రామాణిక దిండ్లు
+2406981	279	202	82	78	woman in blue playing tennis	నీలం రంగులో ఉన్న స్త్రీ టెన్నిస్ ఆడుతోంది
+2346390	168	52	118	132	the head of a man	ఒక మనిషి యొక్క తల
+285779	144	552	181	253	stand of the person	వ్యక్తి యొక్క స్టాండ్
+2339774	376	80	98	235	A man that is running.	నడుస్తున్న మనిషి.
+2387406	7	7	490	257	two bears playing in the water	రెండు ఎలుగుబంట్లు నీటిలో ఆడుతున్నాయి
+2365369	98	121	205	324	A man walking in the snow	మంచులో నడుస్తున్న వ్యక్తి
+2376133	91	57	172	217	man standing at fridge	ఫ్రిజ్ వద్ద నిలబడి ఉన్న వ్యక్తి
+2397398	115	224	184	165	A red tanker truck	ఎరుపు రంగు ట్యాంకర్ ట్రక్
+2326378	126	22	200	316	man shearing a sheep	మనిషి గొర్రెను కోస్తున్నాడు
+2315884	123	156	267	173	a man lying on the sand	ఇసుక మీద పడుకున్న మనిషి
+2389976	11	29	428	338	tortilla covered with food	టోర్టిల్లా ఆహారంతో కప్పబడి ఉంటుంది
+2361681	111	123	340	186	thee are ships on the sea	నువ్వు సముద్రంలో ఓడలు
+2357242	18	6	450	310	Motorcycles on the grass.	గడ్డి మీద మోటార్ సైకిళ్ళు
+2369820	16	65	319	257	men playing baseball	పురుషులు బేస్ బాల్ ఆడుతున్నారు
+2332826	153	215	15	15	he is wearing a watch	అతను వాచ్ ధరించి ఉన్నాడు
+2382624	45	35	367	330	a pickup truck on display	ప్రదర్శనలో ఉన్న పికప్ ట్రక్
+2344746	110	18	245	258	Train engine parked in the railway station	రైలు ఇంజన్ రైల్వే స్టేషన్‌లో ఆపి ఉంది
+1434	605	416	19	57	a pole color black	ఒక పోల్ రంగు నలుపు
+2342978	190	352	164	121	The surfboard is lying on the beach.	సర్ఫ్‌బోర్డ్ బీచ్‌లో పడి ఉంది
+2403009	160	222	165	126	A large castle building on a hill.	కొండ మీద ఒక పెద్ద కోట భవనం
+2329517	9	110	486	220	A serving of food on a white plate	తెల్లటి ప్లేట్‌లో ఆహారాన్ని అందిస్తోంది
+2379013	222	125	89	76	Horse racing down a steep sloping hill	ఏటవాలుగా ఉన్న కొండపై నుంచి గుర్రం పరుగు పందెం
+2408980	131	289	40	32	These are white rocks	ఇవి తెల్లని శిలలు
+2353560	1	3	497	191	A clear blue sky.	స్పష్టమైన నీలి ఆకాశం
+2315795	372	21	98	227	player #8 running for first base with helmet on	ఆటగాడు #8 హెల్మెట్‌తో మొదటి బేస్ కోసం పరిగెడుతున్నాడు
+2387030	119	142	70	124	A yellow fire hydrant	ఒక పసుపు అగ్ని హైడ్రాంట్
+2326772	13	214	361	174	these are two shoes	ఇవి రెండు బూట్లు
+2320430	199	65	132	70	white plane in sky	ఆకాశంలో తెల్లటి విమానం
+2366893	47	73	390	120	a plane on the runway	రన్‌వేపై ఒక విమానం
+2322660	40	136	135	23	a flock of birds in a field	ఒక పొలంలో పక్షుల మంద
+2363405	47	10	424	321	the person is using a clay oven	వ్యక్తి మట్టి పొయ్యిని ఉపయోగిస్తున్నాడు
+2328644	17	117	473	365	Men looking at a motorcycle	పురుషులు మోటార్ సైకిల్ వైపు చూస్తున్నారు
+2371112	345	27	151	183	A bus is moving through the city	ఒక బస్సు నగరం గుండా వెళుతోంది
+2387614	0	85	410	168	flock of turkeys in tall grass	పొడవైన గడ్డిలో టర్కీల మంద
+2316607	214	110	58	107	a bird on a rock wall	ఒక రాతి గోడపై ఒక పక్షి
+2391547	353	78	90	223	this is a suitcase	ఇది సూట్‌కేస్
+2324076	148	88	270	228	White clydesdale horse	తెల్లటి క్లైడెస్డేల్ గుర్రం
+2350968	87	112	238	185	A woman sits on a bench.	ఒక స్త్రీ ఒక బెంచ్ మీద కూర్చుంది
+2370261	265	103	121	138	this is a lady	ఇది ఒక అమ్మాయి
+2328003	324	128	165	155	a desk chair	ఒక డెస్క్ కుర్చీ
+2341737	0	152	488	122	area for cows to roam	ఆవులు సంచరించే ప్రాంతం
+286002	397	310	332	247	plane on the runaway	రన్అవేలో విమానం
+2333074	341	142	82	77	elephant walking in dirt	ఏనుగు ధూళిలో నడుస్తోంది
+2412327	116	325	129	53	a patch of gravel	కంకర పాచ్
+2370984	168	35	128	131	a wood framed print	ఒక చెక్క ఫ్రేమ్డ్ ప్రింట్
+1184	513	5	280	212	vintage posters hanging on wall	పాతకాలపు పోస్టర్లు గోడపై వేలాడుతున్నాయి
 2354029	57	27	369	174	hot dog bun with fillings	हॉट डॉग बन्स फिलिंग के साथ
 2328297	6	14	477	421	Photo taken during the day	दिन के दौरान लिया गया फोटो
 2343027	10	5	475	121	blue sky with irregular shaped clouds	अनियमित आकार बादलों के साथ नीले आकाश
