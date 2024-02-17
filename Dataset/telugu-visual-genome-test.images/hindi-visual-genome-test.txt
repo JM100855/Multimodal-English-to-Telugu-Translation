@@ -331,23 +331,23 @@
 2374010	6	27	227	434	white colored male mannequin	తెలుపు రంగు మగ బొమ్మ
 1724	120	57	30	32	car on highway in front of car	కారు ముందు హైవే మీద కారు
 3339	294	258	180	148	white car parked along the street	తెల్లటి కారు వీధిలో ఆపి ఉంది
-2394658	13	119	267	116	The colorful umbrella above the person's head.	व्यक्ति के सिर के ऊपर रंगीन छतरी
-2371517	24	149	214	105	A book on the bed	बिस्तर पर एक पुस्तक
-2389359	125	4	76	123	man in mirror with camera	कैमरा के साथ दर्पण
-2345218	388	315	19	8	red brick on building	इमारत पर लाल ईंट
-2374903	128	190	44	44	a white game controller	एक सफेद खेल नियंत्रक
-2384680	93	114	60	35	Black nose on cow.	गाय पर काला नाक
-2368130	192	24	15	21	back of round sign	गोल चिह्न के पीछे
-2383932	6	22	471	200	Three men sitting on a sofa	एक सोफे पर बैठे तीन पुरुष
-1751	0	353	59	93	red and black motorcycle	लाल और काला मोटरसाइकिल
-2354739	258	91	70	63	person wearing white shorts	सफेद शॉर्ट्स पहने व्यक्ति
-2413469	161	82	113	283	brown haired woman leaning	भूरी बालों वाली महिला झुकी हुई
-2332154	304	236	42	47	part fo a fence	एक बाड़ का हिस्सा
-2411664	301	194	170	123	Piles of snow on the ground	जमीन पर बर्फ के ढेर
-2316154	218	97	94	193	A green potted plant	एक हरा पौधा
-2367823	442	239	54	26	sitting bench with stand	स्टैंड के साथ बेंच पर बैठे
-2322759	16	22	425	58	This is an airplane	यह हवाई अड्डा है
-2328490	220	16	167	182	planes in formation	निर्माण में विमान
+2394658	13	119	267	116	The colorful umbrella above the person's head.	వ్యక్తి తల పైన రంగురంగుల గొడుగు
+2371517	24	149	214	105	A book on the bed	మంచం మీద పుస్తకం
+2389359	125	4	76	123	man in mirror with camera	కెమెరాతో అద్దంలో మనిషి
+2345218	388	315	19	8	red brick on building	భవనంపై ఎర్ర ఇటుక
+2374903	128	190	44	44	a white game controller	ఒక వైట్ గేమ్ కంట్రోలర్
+2384680	93	114	60	35	Black nose on cow.	ఆవుపై నల్లటి ముక్కు.
+2368130	192	24	15	21	back of round sign	గుండ్రని గుర్తు వెనుక
+2383932	6	22	471	200	Three men sitting on a sofa	ముగ్గురు వ్యక్తులు సోఫాలో కూర్చున్నారు
+1751	0	353	59	93	red and black motorcycle	ఎరుపు మరియు నలుపు మోటార్ సైకిల్
+2354739	258	91	70	63	person wearing white shorts	తెల్లటి షార్ట్ ధరించిన వ్యక్తి
+2413469	161	82	113	283	brown haired woman leaning	గోధుమ రంగు జుట్టు గల స్త్రీ వాలు
+2332154	304	236	42	47	part of a fence	కంచె యొక్క భాగం
+2411664	301	194	170	123	Piles of snow on the ground	నేలపై మంచు కుప్పలు
+2316154	218	97	94	193	A green potted plant	ఒక ఆకుపచ్చ కుండల మొక్క
+2367823	442	239	54	26	sitting bench with stand	స్టాండ్ తో కూర్చున్న బెంచ్
+2322759	16	22	425	58	This is an airplane	ఇదొక విమానం
+2328490	220	16	167	182	planes in formation	ఏర్పాటులో విమానాలు
 2415888	148	20	209	143	a plate of corn bread	मकई की रोटी की थाली
 2405040	52	150	73	57	Two black and gold clock faces	दो काले और सोने की घड़ी चेहरे
 2415376	365	190	10	21	black letter on sign	चिह्न पर काला अक्षर
