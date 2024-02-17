@@ -1237,7 +1237,7 @@
 2356774	302	203	62	127	Long narrow support pole	పొడవైన ఇరుకైన మద్దతు స్తంభం
 2393447	26	167	142	203	person sitting on a bench	ఒక బెంచ్ మీద కూర్చున్న వ్యక్తి
 2366084	24	51	332	387	Two densely striped zebras in an enclosure	ఒక ఎన్‌క్లోజర్‌లో రెండు దట్టమైన చారల జీబ్రాలు
-2330576	213	179	125	195	white and purple handle of the toothbrush	ఒక ఎన్‌క్లోజర్‌లో రెండు దట్టమైన చారల జీబ్రాలు
+2330576	213	179	125	195	white and purple handle of the toothbrush	2330576	213	179	125	195	white and purple handle of the toothbrush	ఒక ఎన్‌క్లోజర్‌లో రెండు దట్టమైన చారల జీబ్రాలు
 2319038	81	86	223	349	dog sitting on white toilet	కుక్క తెల్లటి టాయిలెట్ మీద కూర్చుంది
 2384148	0	103	149	134	a green street sign	ఒక ఆకుపచ్చ వీధి గుర్తు
 2397570	88	122	70	156	doors in a train	రైలులో తలుపులు
@@ -1498,36 +1498,36 @@
 2378930	32	15	146	40	Wall is brown color.	గోడ గోధుమ రంగులో ఉంటుంది.
 2323142	242	49	134	155	A cat asleep in the shoes.	బూట్లతో నిద్రపోతున్న పిల్లి.
 2398435	8	10	477	230	Two motorcycles on the grass.	గడ్డి మీద రెండు మోటార్ సైకిళ్ళు.
-2319301	203	246	16	32	Two people standing in the water.	पानी में दो लोग खड़े हैं
-2371577	292	110	32	69	burgundy shower curtain hanging	बरगंडी बौछार पर्दा लटका
-2318590	303	177	65	44	two animals looking out over others	दो जानवर दूसरों को देखते हैं
-2358837	417	0	82	44	stuffed bear sitting on black microwave	काले माइक्रोवेव पर बैठे हुए बैठे हुए भालू
-2409729	65	35	320	123	tall black poles in a row	एक पंक्ति में लंबे काले डंडे
-2405696	6	334	287	165	Donuts in the box	बक्से में डाउन्ट्स
-2344471	48	5	360	296	Woman riding a horse.	महिला घोड़े पर सवार होते हैं
-2380180	132	179	67	122	The higher of the street lights	सड़क की रोशनी
-2398579	118	105	222	128	Glass of white wine on table.	मेज पर सफेद शराब का ग्लास
-2337278	243	77	31	49	A free standing lamp.	एक मुक्त खड़े दीपक।
-2316029	40	20	440	350	gray and brown elephant	ग्रे और भूरे हाथी
-2401432	60	79	317	160	this is a transist	यह एक व्यावहारिक है
-3598	333	346	171	144	a white round bowl	एक सफेद गेंद
-2351354	39	120	407	306	the plate of food is on the table	प्लेट का भोजन तालिका पर है
-2324025	133	173	117	175	A pink paper sack	एक गुलाबी कागज
-2357762	155	38	246	294	Man in white holding tennis racket	टेनिस रैकेट पकडे हुए सफेद कपडे में आदमी
-2342119	44	75	61	35	word on the sign.	चिह्न पर शब्द
-2358007	249	123	27	21	black and white clock	काली और सफेद घड़ी
-2386090	38	55	307	432	A woman kissing someone on a motorcycle.	एक महिला जो मोटरसाइकिल पर किसी को विकसित करती है .
-2332305	28	1	155	322	the large tree trunk beside the walkway	वॉकवे के बगल में बड़ा पेड़ ट्रंक
-2375913	34	113	413	137	two powerful fighter airplanes	दो शक्तिशाली योजनाएं
-2367053	67	153	355	205	street signs on side a street	गली के बगल में चिह्न
-2385017	259	48	135	325	a young man standing	एक नवयुवक
-1593081	770	179	32	30	A black helmet on a head.	एक सिर पर एक काला हेलमेट।
-2415690	283	52	22	19	a blue helmet on a rider	एक रीडर पर एक नीला हेल्मेट
-2093	190	0	483	237	tree limbs hanging over road	रास्ते पर झुकी हुई पेड़ के सीने
-2411071	230	92	45	25	An airplane flying in the sky	आकाश में उड़ान
-2350198	0	22	155	180	Framed painting on the wall	दीवार पर फ़्रेमयुक्त पेंटिंग
-899	403	331	24	30	pen on the paper	कागज पर कलम
-2350332	95	67	253	154	two zebras standing together	दो ज़ेब्रास एक साथ खड़े हुए
+2319301	203	246	16	32	Two people standing in the water.	ఇద్దరు వ్యక్తులు నీటిలో నిలబడి ఉన్నారు.
+2371577	292	110	32	69	burgundy shower curtain hanging	బుర్గుండి షవర్ కర్టెన్ వేలాడుతోంది
+2318590	303	177	65	44	two animals looking out over others	రెండు జంతువులు ఇతరులను చూస్తున్నాయి
+2358837	417	0	82	44	stuffed bear sitting on black microwave	బ్లాక్ మైక్రోవేవ్ మీద కూర్చున్న సగ్గుబియ్యము
+2409729	65	35	320	123	tall black poles in a row	వరుసగా పొడవాటి నల్లని స్తంభాలు
+2405696	6	334	287	165	Donuts in the box	పెట్టెలో డోనట్స్
+2344471	48	5	360	296	Woman riding a horse.	గుర్రపు స్వారీ చేస్తున్న స్త్రీ.
+2380180	132	179	67	122	The higher of the street lights	వీధి దీపాలు ఎక్కువ
+2398579	118	105	222	128	Glass of white wine on table.	టేబుల్ మీద వైట్ వైన్ గ్లాస్.
+2337278	243	77	31	49	A free standing lamp.	ఉచిత నిలబడి దీపం.
+2316029	40	20	440	350	gray and brown elephant	బూడిద మరియు గోధుమ ఏనుగు
+2401432	60	79	317	160	this is a transist	ఇది ఒక ట్రాన్సిస్ట్
+3598	333	346	171	144	a white round bowl	ఒక తెల్లని గుండ్రని గిన్నె
+2351354	39	120	407	306	the plate of food is on the table	ప్లేట్ ఫుడ్ టేబుల్ మీద ఉంది
+2324025	133	173	117	175	A pink paper sack	పింక్ పేపర్ సాక్
+2357762	155	38	246	294	Man in white holding tennis racket	టెన్నిస్ రాకెట్ పట్టుకున్న తెల్లటి రంగులో ఉన్న వ్యక్తి
+2342119	44	75	61	35	word on the sign.	గుర్తుపై పదం.
+2358007	249	123	27	21	black and white clock	నలుపు మరియు తెలుపు గడియారం
+2386090	38	55	307	432	A woman kissing someone on a motorcycle.	మోటారు సైకిల్‌పై ఒకరిని ముద్దుపెట్టుకుంటున్న స్త్రీ.
+2332305	28	1	155	322	the large tree trunk beside the walkway నడకదారి పక్కన పెద్ద చెట్టు ట్రంక్
+2375913	34	113	413	137	two powerful fighter airplanes	రెండు శక్తివంతమైన యుద్ధ విమానాలు
+2367053	67	153	355	205	street signs on side a street	వీధి పక్కన వీధి గుర్తులు
+2385017	259	48	135	325	a young man standing	ఒక యువకుడు నిలబడి ఉన్నాడు
+1593081	770	179	32	30	A black helmet on a head.	తలపై నల్లని హెల్మెట్.
+2415690	283	52	22	19	a blue helmet on a rider	రైడర్‌పై నీలిరంగు హెల్మెట్
+2093	190	0	483	237	tree limbs hanging over road	చెట్టు కొమ్మలు రోడ్డుపై వేలాడుతున్నాయి
+2411071	230	92	45	25	An airplane flying in the sky	ఆకాశంలో ఎగురుతున్న విమానం
+2350198	0	22	155	180	Framed painting on the wall	గోడపై ఫ్రేమ్డ్ పెయింటింగ్
+899	403	331	24	30	pen on the paper	కాగితం మీద కలం
+2350332	95	67	253	154	two zebras standing together	రెండు జీబ్రాలు కలిసి నిలబడి ఉన్నాయి
 2378729	22	254	235	120	Food is in the plate	खाना प्लेट में है
 497929	112	394	127	59	shiny brass pot on a stove	एक स्टोव पर चमकदार पीतल के बर्तन
 2407070	98	129	219	218	a goat standing next to a fence	किसी भाव के बगल में खड़ा होना
@@ -1557,39 +1557,39 @@
 2370654	342	41	21	16	a small white baseball	एक छोटी सफेद बेसबॉल
 2338924	69	267	247	39	graffiti on a gray wall	एक भूरे रंग की दीवार पर भित्तिचित्र
 2383223	78	230	162	60	the tongs are silver	चीमटे चाँदी के हैं
-2375042	21	27	208	153	Woman sitting on a couch	पैरा पर बैठी महिला
-2317616	41	114	165	87	boy has brown hair	लड़के के भूरे बाल हैं ।
-2325453	272	162	101	151	elephant	हाथी
-2366305	220	290	65	165	The dirt rabbit by the steps	सीढ़ियों द्वारा खरगोश
-2337549	72	31	170	384	man doing a skateboarding trick	एक स्केटबोर्डिंग चाल कर रहा आदमी
-2364476	163	223	33	64	This is a bottle of lotion	यह लोशन की एक बोतल है
-2407542	87	111	384	135	a commercial plane flying in the air	एक वाणिज्यिक विमान हवा में उड़ रहा है
-2376856	70	232	97	88	a light blue spoon	एक हल्का नीला स्पून
-713410	388	529	599	429	a man on a snowboard	स्नोबोर्ड पर एक व्यक्ति
-2348167	81	10	382	322	two people looking at the camera	दो लोग कैमरे को देख रहे हैं
-2395454	30	88	446	240	zebras and giraffes sharing terrain	ज़ेबरा और जिराफ इलाके साझा कर रहे हैं
-2339872	110	305	65	157	The grass is short and green	घास छोटी और हरी होती है ।
-2390911	47	297	6	17	black mark is spotted	काला चिह्न छिपा हुआ है
-2348466	64	216	55	153	a man holding a large stick	एक व्यक्ति जो बड़ी छड़ी पकड़ता है
-713705	218	91	347	451	A bus with an upper deck	एक ऊपरी डेक वाला एक बस
-497998	337	274	665	235	Airplane on a airfield	एक हवाई अड्डे पर हवाई जहाज
-2356005	66	57	364	257	horned animal on a rock	एक चट्टान पर हार्निड जानवर
-2369027	23	167	451	117	motorcycles are parked in a row	मोटरसाइकिल एक पंक्ति में पार्क किया जाता है
-2336360	41	59	235	158	green and white street sign	हरी और सफेद चिह्न
-2417304	6	8	490	329	slice of pizza on white plate	सफेद प्लेट पर पिज़्ज़ा का स्लाइस
-2367755	19	116	364	118	Horses in the street	सड़क में घोड़ों का घोड़ा
-497974	201	481	68	266	orange and white pylon	नारंगी और सफेद पायलन
-2383662	246	35	115	294	man sitting on motorcyle	मोटरसाइल पर बैठा आदमी
-2339987	375	159	123	75	Water on pavement.	फुटपाथ पर पानी
-2391307	61	26	107	46	this is the sky	यह आकाश है
-2357752	8	438	39	28	Small grey grout line	छोटी धूसर लाइन
-2407933	50	56	420	298	Person wears a sweatshirt with hood	व्यक्ति टोपि के साथ स्वेट-शर्ट पहने हुए है
-2414442	15	5	481	326	Donuts in a bowl	एक कटोरे में डोनट्स
-2362873	196	143	107	52	cat is dozing off on computer table	बिल्ली कंप्यूटर तालिका पर डाकिंग बंद है
-2395278	285	137	49	57	Cow has yellow tag on ear.	गाय के कान मे पीला टैग है .
-2343324	125	105	85	109	reflection of a person on mirror	दर्पण पर व्यक्ति का प्रतिबिंब
-2415214	165	179	74	142	a stoplight lit to green	हरी दुर्दशा को प्रकाशित
-2354097	1	23	493	276	surfboards stacked on beach	समुद्र तट पर स्टैक किया गया
-2357303	38	63	384	379	a white red and black bus	एक सफेद लाल और काली बस
-2410308	136	109	360	220	green broccoli with chicken	मुर्गा के साथ हरी ब्रोकोली
-2349582	316	0	49	52	a bird weather vane	एक चिड़िया वेन
+2375042	21	27	208	153	Woman sitting on a couch	సోఫా మీద కూర్చున్న స్త్రీ
+2317616	41	114	165	87	boy has brown hair	అబ్బాయి గోధుమ జుట్టు కలిగి ఉన్నాడు
+2325453	272	162	101	151	elephant	ఏనుగు
+2366305	220	290	65	165	The dirt rabbit by the steps	దశల ద్వారా మురికి కుందేలు
+2337549	72	31	170	384	man doing a skateboarding trick	స్కేట్‌బోర్డింగ్ ట్రిక్ చేస్తున్న వ్యక్తి
+2364476	163	223	33	64	This is a bottle of lotion	ఇది లోషన్ బాటిల్
+2407542	87	111	384	135	a commercial plane flying in the air	ఒక వాణిజ్య విమానం గాలిలో ఎగురుతుంది
+2376856	70	232	97	88	a light blue spoon	ఒక లేత నీలం చెంచా
+713410	388	529	599	429	a man on a snowboard	స్నోబోర్డ్ మీద ఒక వ్యక్తి
+2348167	81	10	382	322	two people looking at the camera	ఇద్దరు వ్యక్తులు కెమెరా వైపు చూస్తున్నారు
+2395454	30	88	446	240	zebras and giraffes sharing terrain	జీబ్రాలు మరియు జిరాఫీలు భూభాగాన్ని పంచుకుంటున్నాయి
+2339872	110	305	65	157	The grass is short and green	గడ్డి పొట్టిగా, పచ్చగా ఉంటుంది
+2390911	47	297	6	17	black mark is spotted	నల్ల మచ్చ పడింది
+2348466	64	216	55	153	a man holding a large stick	ఒక వ్యక్తి పెద్ద కర్రను పట్టుకొని ఉన్నాడు
+713705	218	91	347	451	A bus with an upper deck	పై డెక్ ఉన్న బస్సు
+497998	337	274	665	235	Airplane on a airfield	ఎయిర్‌ఫీల్డ్‌లో విమానం
+2356005	66	57	364	257	horned animal on a rock	ఒక బండ మీద కొమ్ముల జంతువు
+2369027	23	167	451	117	motorcycles are parked in a row	మోటార్ సైకిళ్ళు వరుసగా పార్క్ చేయబడ్డాయి
+2336360	41	59	235	158	green and white street sign	ఆకుపచ్చ మరియు తెలుపు వీధి గుర్తు
+2417304	6	8	490	329	slice of pizza on white plate	తెల్లటి ప్లేట్ మీద పిజ్జా ముక్క
+2367755	19	116	364	118	Horses in the street	వీధిలో గుర్రాలు
+497974	201	481	68	266	orange and white pylon	నారింజ మరియు తెలుపు పైలాన్
+2383662	246	35	115	294	man sitting on motorcyle	మోటార్ సైకిల్ పై కూర్చున్న వ్యక్తి
+2339987	375	159	123	75	Water on pavement.	కాలిబాటపై నీరు.
+2391307	61	26	107	46	this is the sky	ఇది ఆకాశం
+2357752	8	438	39	28	Small grey grout line	చిన్న బూడిద గ్రౌట్ లైన్
+2407933	50	56	420	298	Person wears a sweatshirt with hood	వ్యక్తి హుడ్‌తో చెమట చొక్కా ధరించాడు
+2414442	15	5	481	326	Donuts in a bowl	ఒక గిన్నెలో డోనట్స్
+2362873	196	143	107	52	cat is dozing off on computer table	పిల్లి కంప్యూటర్ టేబుల్ మీద నిద్రపోతోంది
+2395278	285	137	49	57	Cow has yellow tag on ear.	ఆవు చెవిపై పసుపు రంగు ట్యాగ్ ఉంటుంది.
+2343324	125	105	85	109	reflection of a person on mirror	అద్దం మీద ఒక వ్యక్తి యొక్క ప్రతిబింబం
+2415214	165	179	74	142	a stoplight lit to green	ఒక స్టాప్‌లైట్ ఆకుపచ్చగా వెలిగించబడుతుంది
+2354097	1	23	493	276	surfboards stacked on beach	బీచ్‌లో సర్ఫ్‌బోర్డ్‌లు పేర్చబడి ఉంటాయి
+2357303	38	63	384	379	a white red and black bus	తెలుపు ఎరుపు మరియు నలుపు బస్సు
+2410308	136	109	360	220	green broccoli with chicken	చికెన్ తో ఆకుపచ్చ బ్రోకలీ
+2349582	316	0	49	52	a bird weather vane	ఒక పక్షి వాతావరణ వ్యాన్
