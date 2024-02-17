@@ -418,37 +418,37 @@
 2397858	357	160	30	16	a pair of white and orange goggles	ఒక జత తెలుపు మరియు నారింజ రంగు అద్దాలు
 2316314	30	11	124	312	green light rail	గ్రీన్ లైట్ రైలు
 2393673	194	175	20	22	back of a horse	ఒక గుర్రం వెనుక
-2319357	84	114	415	259	The dog is on a surfboard.	कुत्ता सर्फ़बोर्ड पर है
-2353929	1	199	115	107	the toilet seat is down	टॉयलेट सीट नीचे है
-2373659	15	17	471	307	American soldiers are stationed in Kabul.	अमेरिकी सैनिक काबुल में तैनात हैं ।
-2349465	78	56	370	212	This is a sandwich	यह एक सैंडविच है
-2337575	188	248	65	73	a white toilet	एक सफेद शौचालय
-2320384	63	148	137	79	a dog with its head on a bench	एक बेंच पर अपने सिर के साथ एक कुत्ता
-2373874	354	298	31	27	part of a brick	ईंट का हिस्सा
-2373516	76	148	385	176	A large swimming pool	एक बड़ा स्विमिंग पूल
-498300	603	148	327	415	A pumpkin on the ground	जमीन पर एक कद्दू
-286063	937	438	83	225	a suitcase on a conveyor	वाहक पट्टा पर एक सूटकेस
-2417391	141	159	36	34	a round clock on a building	एक इमारत पर एक गोल घड़ी
-2346796	266	42	36	53	pat of a cloud	एक बादल की पैट
-2376829	35	39	464	193	a freight train on rails	पटरियों पर एक मालगाड़ी
-2362240	7	40	459	282	This is a train	यह एक रेलगाड़ी है
-2342155	3	73	58	300	child standing next to child	बच्चे के बगल में खड़ा बच्चा
-2328054	85	304	140	56	The ground is made of asphalt	जमीन डामर से बनी है
-2339655	186	320	38	68	two toy astronauts	दो खिलौना अंतरिक्ष यात्री
-2369726	11	78	487	234	a crowd of people and horses	लोगों और घोड़ों की भीड़
-2343735	125	117	275	134	the food is in wooden bowl	भोजन लकड़ी के कटोरे में है
-2381897	217	136	110	216	The giraffe looks at the camera	जिराफ कैमरे पर देख रहा है
-2343987	71	411	206	30	black iron fence at base of tower	टावर के आधार पर काले लोहे का श्रेणी
-2343865	413	52	85	150	Empty ski lift	खाली स्की
-2375894	21	7	307	448	an umbrella hanging from a window	एक खिड़की से लटका एक छतरी
-2373800	65	286	151	67	a pair of black knee pads	काले पैड का एक जोड़ा
-2379540	181	205	111	111	the bear is black	भालू काला है
-2375794	245	147	250	242	A brown and white cow	एक भूरा और सफेद गाय
-2345392	48	115	25	75	THAT IS A PERSON	एक व्यक्ति है
-2376852	377	234	15	17	part of a thicket	एक गाढ़ा हिस्सा
-2404755	313	48	14	22	top of building	इमारत का शीर्ष
-2359495	17	157	83	120	The vest the man is wearing.	आदमी बनियान पहने है।
-2354852	46	192	119	87	the wheels on a bus	एक बस पर पहिये
+2319357	84	114	415	259	The dog is on a surfboard.	కుక్క సర్ఫ్‌బోర్డ్‌లో ఉంది
+2353929	1	199	115	107	the toilet seat is down	టాయిలెట్ సీటు కింద ఉంది
+2373659	15	17	471	307	American soldiers are stationed in Kabul.	అమెరికా సైనికులు కాబూల్‌లో ఉన్నారు
+2349465	78	56	370	212	This is a sandwich	ఇది శాండ్‌విచ్
+2337575	188	248	65	73	a white toilet	a white toilet
+2320384	63	148	137	79	a dog with its head on a bench	బెంచ్ మీద తల ఉన్న కుక్క
+2373874	354	298	31	27	part of a brick	ఒక ఇటుక భాగం
+2373516	76	148	385	176	A large swimming pool	ఒక పెద్ద స్విమ్మింగ్ పూల్
+498300	603	148	327	415	A pumpkin on the ground	నేలమీద గుమ్మడికాయ
+286063	937	438	83	225	a suitcase on a conveyor	కన్వేయర్‌పై సూట్‌కేస్
+2417391	141	159	36	34	a round clock on a building	ఒక భవనంపై ఒక రౌండ్ గడియారం
+2346796	266	42	36	53	pat of a cloud	మేఘం యొక్క పాట్
+2376829	35	39	464	193	a freight train on rails	పట్టాలపై ఒక సరుకు రవాణా రైలు
+2362240	7	40	459	282	This is a train	ఇది రైలు
+2342155	3	73	58	300	child standing next to child	బిడ్డ పక్కన నిలబడి
+2328054	85	304	140	56	The ground is made of asphalt	నేల తారుతో తయారు చేయబడింది
+2339655	186	320	38	68	two toy astronauts	ఇద్దరు బొమ్మ వ్యోమగాములు
+2369726	11	78	487	234	a crowd of people and horses	ప్రజలు మరియు గుర్రాల సమూహం
+2343735	125	117	275	134	the food is in wooden bowl	ఆహారం చెక్క గిన్నెలో ఉంది
+2381897	217	136	110	216	The giraffe looks at the camera	జిరాఫీ కెమెరా వైపు చూస్తోంది
+2343987	71	411	206	30	black iron fence at base of tower	టవర్ బేస్ వద్ద నల్ల ఇనుప కంచె
+2343865	413	52	85	150	Empty ski lift	ఖాళీ స్కీ లిఫ్ట్
+2375894	21	7	307	448	an umbrella hanging from a window	కిటికీ నుండి వేలాడుతున్న గొడుగు
+2373800	65	286	151	67	a pair of black knee pads	ఒక జత నల్లటి మోకాలి మెత్తలు
+2379540	181	205	111	111	the bear is black	ఎలుగుబంటి నల్లగా ఉంటుంది
+2375794	245	147	250	242	A brown and white cow	గోధుమ మరియు తెలుపు ఆవు
+2345392	48	115	25	75	THAT IS A PERSON	అది ఒక వ్యక్తి
+2376852	377	234	15	17	part of a ticket	టిక్కెట్టులో భాగం
+2404755	313	48	14	22	top of building	భవనం పైన
+2359495	17	157	83	120	The vest the man is wearing.	మనిషి ధరించిన చొక్కా
+2354852	46	192	119	87	the wheels on a bus	బస్సులో చక్రాలు
 2397460	322	98	155	57	The beach is visible.	बीच दिख रहा है।
 2415653	36	41	355	327	pedicab waiting on the curb	pedicab कर्ब पर इंतज़ार कर रहा है
 2372849	1	78	122	133	The back of a cat's head.	बिल्ली के सिर का पिछला भाग।
