@@ -1528,35 +1528,35 @@
 2350198	0	22	155	180	Framed painting on the wall	గోడపై ఫ్రేమ్డ్ పెయింటింగ్
 899	403	331	24	30	pen on the paper	కాగితం మీద కలం
 2350332	95	67	253	154	two zebras standing together	రెండు జీబ్రాలు కలిసి నిలబడి ఉన్నాయి
-2378729	22	254	235	120	Food is in the plate	खाना प्लेट में है
-497929	112	394	127	59	shiny brass pot on a stove	एक स्टोव पर चमकदार पीतल के बर्तन
-2407070	98	129	219	218	a goat standing next to a fence	किसी भाव के बगल में खड़ा होना
-2350785	422	22	58	63	large round black rimmed clock on the wall	दीवार पर बड़े दौर काले रिमम्ड घड़ी
-2336976	294	160	140	170	woman riding skis down the side of a snow covered slope.	स्त्री घुड़सवारी स्कीन बर्फ के किनारे बर्फ के ढके हुए स्लोप के किनारे पर है ।
-2370049	132	104	200	202	a baseball player catching a ball	एक बेसबॉल खिलाड़ी गेंद पकड़ना
-2402531	42	195	15	24	a tree in a building	इमारत में एक वृक्ष
-4784	376	126	32	205	a shiny knife in the place setting	एक चमकदार चाकू सेटिंग में चमकदार
-2411484	4	5	494	267	upwards view of architecture in a station	स्टेशन में वास्तुकला का ऊपर
-2386543	196	28	220	302	snowy ski slope	बर्फ स्की ढलान
-2374545	329	149	57	127	Head of a zebra	एक ज़ेबरा के सिर
-2321226	12	114	391	200	silver train stopped at the station	स्टेशन पर चांदी रेलगाड़ी रुक गयी ।
-2329089	101	68	67	50	a bright red hat	एक चमकीला लाल हैट
-2327434	171	22	159	211	horse with a blue halter	एक नीले रंग के साथ घोड़ा
-2317971	80	17	142	213	Woman holding a red umbrella	महिला लाल छाता पक्डे हुए है
-2318018	52	62	377	386	mirrors on a truck	एक ट्रक पर दर्पण
-2390909	128	435	16	19	white mark is spotted	सफेद निशान देखा गया है
-2318216	197	163	81	37	A cell phone in the woman's left hand	महिला के बाएँ हाथ में एक सेल फोन
-2356871	135	10	233	189	Red and white sign	लाल और सफेद चिह्न
-2362278	358	80	48	50	The stop sign is red.	बंद चिह्न लाल है .
-2355190	138	52	254	282	man is surfing the ocean	व्यक्ति समुद्र का सामना कर रहा है
-2334353	105	21	388	261	cat on a toilet	एक शौचालय पर बिल्ली
-2321368	95	66	179	259	Male tennis player jumps incoming ball.	पुरुष टेनिस खिलाड़ी आने वाली गेंद को कूदता है
-2319511	32	20	465	351	a giraffe that is eating	एक खाना खाता हुआ जीराफ
-2368138	35	27	169	162	baking in a open oven	एक खुले हुए चूल्हे में बैकिंग
-2332000	121	70	87	218	person skateboarding on icy road	व्यक्ति बर्फीली सड़क पर स्केटबोर्डिंग
-2370654	342	41	21	16	a small white baseball	एक छोटी सफेद बेसबॉल
-2338924	69	267	247	39	graffiti on a gray wall	एक भूरे रंग की दीवार पर भित्तिचित्र
-2383223	78	230	162	60	the tongs are silver	चीमटे चाँदी के हैं
+2378729	22	254	235	120	Food is in the plate	ప్లేట్‌లో ఆహారం ఉంది
+497929	112	394	127	59	shiny brass pot on a stove	స్టవ్ మీద మెరిసే ఇత్తడి కుండ
+2407070	98	129	219	218	a goat standing next to a fence	ఒక మేక కంచె పక్కన నిలబడి ఉంది
+2350785	422	22	58	63	large round black rimmed clock on the wall	గోడపై పెద్ద గుండ్రని నల్లటి అంచు గల గడియారం
+2336976	294	160	140	170	woman riding skis down the side of a snow covered slope. మంచుతో కప్పబడిన వాలు వైపు స్కిస్ నడుపుతున్న స్త్రీ
+2370049	132	104	200	202	a baseball player catching a ball	ఒక బేస్ బాల్ ఆటగాడు బంతిని పట్టుకోవడం
+2402531	42	195	15	24	a tree in a building	ఒక భవనంలో ఒక చెట్టు
+4784	376	126	32	205	a shiny knife in the place setting	స్థలం అమరికలో మెరిసే కత్తి
+2411484	4	5	494	267	upwards view of architecture in a station	స్టేషన్‌లో ఆర్కిటెక్చర్ పైకి వీక్షణ
+2386543	196	28	220	302	snowy ski slope	మంచు స్కీ వాలు
+2374545	329	149	57	127	Head of a zebra	జీబ్రా తల
+2321226	12	114	391	200	silver train stopped at the station	వెండి రైలు స్టేషన్‌లో ఆగింది
+2329089	101	68	67	50	a bright red hat	ప్రకాశవంతమైన ఎరుపు టోపీ
+2327434	171	22	159	211	horse with a blue halter	నీలిరంగు హాల్టర్ ఉన్న గుర్రం
+2317971	80	17	142	213	Woman holding a red umbrella	ఎర్రటి గొడుగు పట్టుకున్న స్త్రీ
+2318018	52	62	377	386	mirrors on a truck	ట్రక్కుపై అద్దాలు
+2390909	128	435	16	19	white mark is spotted	తెల్లటి గుర్తు చుక్కలంటుంది
+2318216	197	163	81	37	A cell phone in the woman's left hand	మహిళ ఎడమ చేతిలో సెల్ ఫోన్
+2356871	135	10	233	189	Red and white sign	ఎరుపు మరియు తెలుపు గుర్తు
+2362278	358	80	48	50	The stop sign is red.	స్టాప్ గుర్తు ఎరుపు.
+2355190	138	52	254	282	man is surfing the ocean	మనిషి సముద్రంలో సర్ఫింగ్ చేస్తున్నాడు
+2334353	105	21	388	261	cat on a toilet	ఒక టాయిలెట్ మీద పిల్లి
+2321368	95	66	179	259	Male tennis player jumps incoming ball.	మగ టెన్నిస్ ఆటగాడు ఇన్‌కమింగ్ బాల్‌ను దూకాడు
+2319511	32	20	465	351	a giraffe that is eating	తింటున్న జిరాఫీ
+2368138	35	27	169	162	baking in a open oven	ఒక ఓపెన్ ఓవెన్లో బేకింగ్
+2332000	121	70	87	218	person skateboarding on icy road	మంచుతో నిండిన రహదారిపై స్కేట్‌బోర్డింగ్ చేస్తున్న వ్యక్తి
+2370654	342	41	21	16	a small white baseball	ఒక చిన్న తెల్లని బేస్ బాల్
+2338924	69	267	247	39	graffiti on a gray wall	బూడిద గోడపై గ్రాఫిటీ
+2383223	78	230	162	60	the tongs are silver	పటకారు వెండి
 2375042	21	27	208	153	Woman sitting on a couch	సోఫా మీద కూర్చున్న స్త్రీ
 2317616	41	114	165	87	boy has brown hair	అబ్బాయి గోధుమ జుట్టు కలిగి ఉన్నాడు
 2325453	272	162	101	151	elephant	ఏనుగు
