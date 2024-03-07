@@ -1,1 +1,5 @@
-This directory is for the test directory
+This directory is for the test data
+engtest - english sentance
+teltest - coresponding translated telugu sentances
+testimages - numbers directing the images to the sentances
+testcrop - X-coordinate, Y-coordinate, Width, Height of the area in image for translation
