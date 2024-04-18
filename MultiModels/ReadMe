@@ -1,0 +1,2 @@
+This folder contains The multimodal English to Telugu translation code using various models(LSTM Model, GRU Model, Transformer Encoder-Decoder model, FNet Encoder-Transformer Decoder Model)
+excluding the image feature extraction that is present in the feature extraction folder of this repository
